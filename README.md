@@ -7,16 +7,6 @@
   <a href="README.zh-CN.md">简体中文</a>
 </p>
 
-<br />
-
-<a href="https://pize.ai/#agent"><img src="assets/pize-agent.png" width="100%" alt="Original Pize website section: cross-file edits and diff review, terminal execution, plan and act modes, context, project rules, and model choice." /></a>
-
-<br />
-
-<a href="https://pize.ai/#work"><img src="assets/pize-workflow.png" width="100%" alt="Original interactive workflow demonstration from the Pize website. Open the website to interact with it." /></a>
-
-<p align="center"><sub>Real website captures. Open any image to explore Pize.</sub></p>
-
 ---
 
 Maintained by Pize's founder, [@guopengnaivoc](https://github.com/guopengnaivoc), publishing as **pize.ai**.
@@ -40,6 +30,6 @@ Share product questions and suggestions through [GitHub Issues](https://github.c
 <details>
 <summary><strong>Still image and visual credits</strong></summary>
 
-[View the homepage without animation](assets/pize-home.png). The images are captures of [pize.ai](https://pize.ai), not a redesigned mockup. The workflow image shows the website's own demonstration, not a separate application recording. [Capture details and attribution](assets/SOURCES.md).
+[View the homepage without animation](assets/pize-home.png). The images are captures of [pize.ai](https://pize.ai), not a redesigned mockup. [Capture details and attribution](assets/SOURCES.md).
 
 </details>

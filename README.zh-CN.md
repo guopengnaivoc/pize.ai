@@ -7,16 +7,6 @@
   <a href="README.md">English</a>
 </p>
 
-<br />
-
-<a href="https://pize.ai/#agent"><img src="assets/pize-agent.png" width="100%" alt="Pize 官网原始功能介绍：跨文件编辑、差异审阅、终端执行、规划与执行模式、项目上下文、规则与模型选择。" /></a>
-
-<br />
-
-<a href="https://pize.ai/#work"><img src="assets/pize-workflow.png" width="100%" alt="Pize 官网原有工作流演示画面，点击进入官网体验完整交互。" /></a>
-
-<p align="center"><sub>画面直接采集自官网，保留原有设计。点击任一图片进入 Pize。</sub></p>
-
 ---
 
 由 Pize 创始人 [@guopengnaivoc](https://github.com/guopengnaivoc) 维护，对外署名 **pize.ai**。
@@ -40,6 +30,6 @@
 <details>
 <summary><strong>静态预览与素材来源</strong></summary>
 
-[查看无动画首屏](assets/pize-home.png)。图片直接采集自 [pize.ai](https://pize.ai)，没有另行重绘。工作流图片是官网自带演示的画面，并非另行录制的软件实机界面。[采集说明与署名](assets/SOURCES.md)。
+[查看无动画首屏](assets/pize-home.png)。图片直接采集自 [pize.ai](https://pize.ai)，没有另行重绘。[采集说明与署名](assets/SOURCES.md)。
 
 </details>
