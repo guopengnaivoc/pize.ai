@@ -21,200 +21,122 @@
 
 ---
 
-## 科学計算のエコシステム
+## <img src="assets/section-icons/ecosystem.svg" width="22" height="22" alt="" /> **科学計算のエコシステム**
 
 <table width="100%" align="center" dir="ltr">
   <tr>
-    <td width="25%" align="center" valign="middle">
-      <br />
-      <img src="assets/scientific-logos/r.svg" width="57" height="44" alt="R" />
-      <br />
-      <strong>R</strong>
-      <br /><br />
+    <td width="12.5%" align="center" valign="middle">
+      <img src="assets/scientific-logos/r.svg" width="31" height="24" alt="R" />
+      <br /><sub>R</sub>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <br />
-      <img src="assets/scientific-logos/python.svg" width="36" height="44" alt="Python" />
-      <br />
-      <strong>Python</strong>
-      <br /><br />
+    <td width="12.5%" align="center" valign="middle">
+      <img src="assets/scientific-logos/python.svg" width="20" height="24" alt="Python" />
+      <br /><sub>Python</sub>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <br />
-      <img src="assets/scientific-logos/jupyter.svg" width="34" height="44" alt="Jupyter" />
-      <br />
-      <strong>Jupyter</strong>
-      <br /><br />
+    <td width="12.5%" align="center" valign="middle">
+      <img src="assets/scientific-logos/jupyter.svg" width="19" height="24" alt="Jupyter" />
+      <br /><sub>Jupyter</sub>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <br />
-      <img src="assets/scientific-logos/julia.svg" width="44" height="44" alt="Julia" />
-      <br />
-      <strong>Julia</strong>
-      <br /><br />
+    <td width="12.5%" align="center" valign="middle">
+      <img src="assets/scientific-logos/julia.svg" width="24" height="24" alt="Julia" />
+      <br /><sub>Julia</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="25%" align="center" valign="middle">
-      <br />
-      <img src="assets/scientific-logos/rstudio.svg" width="44" height="44" alt="RStudio" />
-      <br />
-      <strong>RStudio</strong>
-      <br /><br />
+    <td width="12.5%" align="center" valign="middle">
+      <img src="assets/scientific-logos/rstudio.svg" width="24" height="24" alt="RStudio" />
+      <br /><sub>RStudio</sub>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <br />
-      <img src="assets/scientific-logos/spss.png" width="46" height="44" alt="SPSS" />
-      <br />
-      <strong>SPSS</strong>
-      <br /><br />
+    <td width="12.5%" align="center" valign="middle">
+      <img src="assets/scientific-logos/spss.png" width="25" height="24" alt="SPSS" />
+      <br /><sub>SPSS</sub>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <br />
+    <td width="12.5%" align="center" valign="middle">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/scientific-logos/stata-dark.svg" width="88" height="25" />
-        <img src="assets/scientific-logos/stata-light.svg" width="44" height="44" alt="Stata" />
+        <source media="(prefers-color-scheme: dark)" srcset="assets/scientific-logos/stata-dark.svg" width="48" height="14" />
+        <img src="assets/scientific-logos/stata-light.svg" width="24" height="24" alt="Stata" />
       </picture>
-      <br />
-      <strong>Stata</strong>
-      <br /><br />
+      <br /><sub>Stata</sub>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <br />
-      <img src="assets/scientific-logos/sas.png" width="88" height="44" alt="SAS" />
-      <br />
-      <strong>SAS</strong>
-      <br /><br />
+    <td width="12.5%" align="center" valign="middle">
+      <img src="assets/scientific-logos/sas.png" width="48" height="24" alt="SAS" />
+      <br /><sub>SAS</sub>
     </td>
   </tr>
   <tr>
-    <td width="25%" align="center" valign="middle">
-      <br />
-      <img src="assets/scientific-logos/cplusplus.svg" width="39" height="44" alt="C++" />
-      <br />
-      <strong>C++</strong>
-      <br /><br />
+    <td width="12.5%" align="center" valign="middle">
+      <img src="assets/scientific-logos/cplusplus.svg" width="21" height="24" alt="C++" />
+      <br /><sub>C++</sub>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <br />
-      <img src="assets/scientific-logos/quarto.svg" width="44" height="44" alt="Quarto" />
-      <br />
-      <strong>Quarto</strong>
-      <br /><br />
+    <td width="12.5%" align="center" valign="middle">
+      <img src="assets/scientific-logos/quarto.svg" width="24" height="24" alt="Quarto" />
+      <br /><sub>Quarto</sub>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <br />
-      <img src="assets/scientific-logos/numpy.svg" width="44" height="44" alt="NumPy" />
-      <br />
-      <strong>NumPy</strong>
-      <br /><br />
+    <td width="12.5%" align="center" valign="middle">
+      <img src="assets/scientific-logos/numpy.svg" width="24" height="24" alt="NumPy" />
+      <br /><sub>NumPy</sub>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <br />
-      <img src="assets/scientific-logos/pandas.svg" width="33" height="44" alt="pandas" />
-      <br />
-      <strong>pandas</strong>
-      <br /><br />
+    <td width="12.5%" align="center" valign="middle">
+      <img src="assets/scientific-logos/pandas.svg" width="18" height="24" alt="pandas" />
+      <br /><sub>pandas</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="25%" align="center" valign="middle">
-      <br />
-      <img src="assets/scientific-logos/scipy.svg" width="44" height="44" alt="SciPy" />
-      <br />
-      <strong>SciPy</strong>
-      <br /><br />
+    <td width="12.5%" align="center" valign="middle">
+      <img src="assets/scientific-logos/scipy.svg" width="24" height="24" alt="SciPy" />
+      <br /><sub>SciPy</sub>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <br />
-      <img src="assets/scientific-logos/scikitlearn.png" width="81" height="44" alt="scikit-learn" />
-      <br />
-      <strong>scikit-learn</strong>
-      <br /><br />
+    <td width="12.5%" align="center" valign="middle">
+      <img src="assets/scientific-logos/scikitlearn.png" width="44" height="24" alt="scikit-learn" />
+      <br /><sub>scikit-learn</sub>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <br />
-      <img src="assets/scientific-logos/pytorch.svg" width="44" height="44" alt="PyTorch" />
-      <br />
-      <strong>PyTorch</strong>
-      <br /><br />
+    <td width="12.5%" align="center" valign="middle">
+      <img src="assets/scientific-logos/pytorch.svg" width="24" height="24" alt="PyTorch" />
+      <br /><sub>PyTorch</sub>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <br />
-      <img src="assets/scientific-logos/tensorflow.svg" width="44" height="44" alt="TensorFlow" />
-      <br />
-      <strong>TensorFlow</strong>
-      <br /><br />
+    <td width="12.5%" align="center" valign="middle">
+      <img src="assets/scientific-logos/tensorflow.svg" width="24" height="24" alt="TensorFlow" />
+      <br /><sub>TensorFlow</sub>
     </td>
   </tr>
   <tr>
-    <td width="25%" align="center" valign="middle">
-      <br />
+    <td width="12.5%" align="center" valign="middle">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/scientific-logos/plotly-dark.svg" width="88" height="29" />
-        <img src="assets/scientific-logos/plotly-light.svg" width="44" height="44" alt="Plotly" />
+        <source media="(prefers-color-scheme: dark)" srcset="assets/scientific-logos/plotly-dark.svg" width="48" height="16" />
+        <img src="assets/scientific-logos/plotly-light.svg" width="24" height="24" alt="Plotly" />
       </picture>
-      <br />
-      <strong>Plotly</strong>
-      <br /><br />
+      <br /><sub>Plotly</sub>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <br />
-      <img src="assets/scientific-logos/imagej.gif" width="88" height="18" alt="ImageJ" />
-      <br />
-      <strong>ImageJ</strong>
-      <br /><br />
+    <td width="12.5%" align="center" valign="middle">
+      <img src="assets/scientific-logos/imagej.gif" width="48" height="10" alt="ImageJ" />
+      <br /><sub>ImageJ</sub>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <br />
-      <img src="assets/scientific-logos/graphpad-prism.svg" width="88" height="17" alt="GraphPad Prism" />
-      <br />
-      <strong>GraphPad Prism</strong>
-      <br /><br />
+    <td width="12.5%" align="center" valign="middle">
+      <img src="assets/scientific-logos/graphpad-prism.svg" width="48" height="9" alt="GraphPad Prism" />
+      <br /><sub>GraphPad Prism</sub>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <br />
-      <img src="assets/scientific-logos/ncss.png" width="88" height="18" alt="NCSS" />
-      <br />
-      <strong>NCSS</strong>
-      <br /><br />
+    <td width="12.5%" align="center" valign="middle">
+      <img src="assets/scientific-logos/ncss.png" width="48" height="10" alt="NCSS" />
+      <br /><sub>NCSS</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="25%" align="center" valign="middle">
-      <br />
-      <img src="assets/scientific-logos/cytoscape.svg" width="44" height="44" alt="Cytoscape" />
-      <br />
-      <strong>Cytoscape</strong>
-      <br /><br />
+    <td width="12.5%" align="center" valign="middle">
+      <img src="assets/scientific-logos/cytoscape.svg" width="24" height="24" alt="Cytoscape" />
+      <br /><sub>Cytoscape</sub>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <br />
-      <img src="assets/scientific-logos/octave.svg" width="44" height="44" alt="GNU Octave" />
-      <br />
-      <strong>GNU Octave</strong>
-      <br /><br />
+    <td width="12.5%" align="center" valign="middle">
+      <img src="assets/scientific-logos/octave.svg" width="24" height="24" alt="GNU Octave" />
+      <br /><sub>GNU Octave</sub>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <br />
-      <img src="assets/scientific-logos/graphviz.png" width="44" height="44" alt="Graphviz" />
-      <br />
-      <strong>Graphviz</strong>
-      <br /><br />
+    <td width="12.5%" align="center" valign="middle">
+      <img src="assets/scientific-logos/graphviz.png" width="24" height="24" alt="Graphviz" />
+      <br /><sub>Graphviz</sub>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <br />
-      <img src="assets/scientific-logos/fiji.png" width="44" height="44" alt="Fiji" />
-      <br />
-      <strong>Fiji</strong>
-      <br /><br />
+    <td width="12.5%" align="center" valign="middle">
+      <img src="assets/scientific-logos/fiji.png" width="24" height="24" alt="Fiji" />
+      <br /><sub>Fiji</sub>
     </td>
   </tr>
 </table>
 
 このロゴ一覧は、Pize 公式サイトに掲載された研究用言語とツールを示し、データ分析、数値計算、機械学習、可視化を含みます。Pize はこうした研究ワークフローを AI プログラミングで支援し、具体的な対応範囲は[公式ドキュメント](https://pize.ai/docs)に記載していますが、各ロゴは公式な提携や推奨を示すものではありません。
 
-## コード補完だけでなく、研究のために
+## <img src="assets/section-icons/research.svg" width="22" height="22" alt="" /> **コード補完だけでなく、研究のために**
 
 **Pize は、科学技術コードと統計データを扱う研究者のための AI プログラミングアシスタントです。** プロジェクトの理解、分析計画の作成、コードの記述と実行、出力やグラフの確認、次の手順の見直しを支援します。Pize Code、Positron、CLI、SDK から利用できます。
 
@@ -222,7 +144,7 @@
 
 このリポジトリは Pize の公開製品・コミュニティページです。創設者の [@guopengnaivoc](https://github.com/guopengnaivoc) が管理しています。
 
-## Pize でできること
+## <img src="assets/section-icons/features.svg" width="22" height="22" alt="" /> **Pize でできること**
 
 | 機能 | 研究での使い方 |
 | --- | --- |
@@ -236,7 +158,7 @@
 
 Parquet、Arrow、RDS、HDF5、h5ad、NumPy、SPSS、Stata などの研究用データ形式では、形式を識別して適切な読み込みコードの作成を支援します。あらゆるバイナリ形式を直接会話内に展開するという意味ではありません。動作と制約は[データ読み取り・ランタイムのドキュメント](https://pize.ai/docs)をご覧ください。
 
-## 普段の環境で使う
+## <img src="assets/section-icons/interfaces.svg" width="22" height="22" alt="" /> **普段の環境で使う**
 
 | 利用方法 | 用途 |
 | --- | --- |
@@ -247,21 +169,20 @@ Parquet、Arrow、RDS、HDF5、h5ad、NumPy、SPSS、Stata などの研究用デ
 
 実行中セッションへのブリッジは Positron 固有の機能です。すべての利用方法で同じランタイムアクセスが提供されるわけではありません。インストール方法と詳細は[公式ドキュメント](https://pize.ai/docs)に記載しています。
 
-## モデルと外部ツール
+## <img src="assets/section-icons/models.svg" width="22" height="22" alt="" /> **モデルと外部ツール**
 
 Pize はクラウドおよびローカルモデルへの接続に対応しています。Anthropic、OpenAI、Google Gemini、DeepSeek、AWS Bedrock、OpenRouter、OpenAI 互換エンドポイントなどから、研究環境に合うプロバイダーと構成を選べます。
 
 **SDK は Pize をプログラムに組み込み、MCP は Pize を外部ツールにつなぎます。** MCP クライアントとして、互換サーバー経由でデータベース、内部システム、研究室のツールに接続できます。利用できる操作は、接続先サーバーと付与した権限に依存します。
 
-## はじめる
+## <img src="assets/section-icons/start.svg" width="22" height="22" alt="" /> **はじめる**
 
 1. **利用環境を選ぶ。** [公式ダウンロードページ](https://pize.ai/download)から、環境に対応する手順でセットアップします。
 2. **モデルを設定する。** ドキュメントに従い、対応プロバイダーまたはローカルエンドポイントに接続します。
 3. **研究のコンテキストを渡す。** プロジェクトを開き、関連するスクリプトやデータを添付します。Positron では、解析対象のデータが入ったセッションにフォーカスします。
 4. **計画し、承認し、改善する。** 方針を合わせて提案された操作を確認し、生成コード、出力、グラフを見てから次へ進みます。
 
-<details>
-<summary><strong>研究に関する依頼の例</strong></summary>
+### <img src="assets/section-icons/examples.svg" width="20" height="20" alt="" /> **研究に関する依頼の例**
 
 以下は依頼文の例であり、独立した検証を受けた分析結果ではありません。
 
@@ -269,17 +190,16 @@ Pize はクラウドおよびローカルモデルへの接続に対応してい
 - 「この R または Python の処理フローを説明し、確認すべき仮定を挙げてください。」
 - 「分析スクリプトの修正を手伝い、承認後に実行して、診断プロットを説明してください。」
 
-</details>
 
 Pize は作業を支援しますが、科学的判断の代わりにはなりません。結果を利用する前に、手法の仮定と出力を確認してください。データの扱いは設定したツールやモデルサービスに依存します。[プライバシー情報](https://pize.ai/privacy)と利用するプロバイダーの方針も確認してください。
 
-## このリポジトリの公開範囲
+## <img src="assets/section-icons/repository.svg" width="22" height="22" alt="" /> **このリポジトリの公開範囲**
 
 このリポジトリには製品情報、コミュニティ向け資料、独立した[タンパク質のインタラクティブ表示](https://guopengnaivoc.github.io/pize.ai/)が含まれます。この表示は視覚的なデモであり、タンパク質予測サービスでも、検証済みの科学的結果を示すものでもありません。データの出典は[タンパク質データのクレジット](assets/protein-CREDITS.md)に記載しています。
 
 **Pize のコアアプリケーションのソースコードは、このリポジトリでは公開していません。** 表示用コードの公開は製品全体のオープンソース化を意味しません。今後、一部のツール、サンプル、技術ノートを、公開範囲とライセンスを明示して別途公開する場合があります。ソフトウェアの入手方法と提供状況は公式サイトをご確認ください。
 
-## 創設者、フィードバック、協力
+## <img src="assets/section-icons/community.svg" width="22" height="22" alt="" /> **創設者、フィードバック、協力**
 
 Pize は [@guopengnaivoc](https://github.com/guopengnaivoc) が創設し、**pize.ai** の名前で管理しています。公式サイトは製品の入口、このリポジトリは公開プロジェクト情報とコミュニティのフィードバックをまとめる場所です。
 
@@ -289,7 +209,7 @@ Pize は [@guopengnaivoc](https://github.com/guopengnaivoc) が創設し、**piz
 
 公開 Issue に API キー、認証情報、非公開データセット、機密の研究資料を投稿しないでください。最新の機能と設定方法は [pize.ai](https://pize.ai/ja) と[公式ドキュメント](https://pize.ai/docs)をご参照ください。
 
-## Pize へのお問い合わせ
+## <img src="assets/section-icons/contact.svg" width="22" height="22" alt="" /> **Pize へのお問い合わせ**
 
 メールアドレスをクリックすると、件名を入力した状態でメールアプリが開きます。以下は[公式お問い合わせページ](https://pize.ai/contact)に掲載されているアドレスです。
 
