@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://pize.ai">
+    <img src="assets/pize-logo.svg" width="96" height="96" alt="Pize logo" />
+  </a>
+</p>
+
 <h1 align="center">pize.ai</h1>
 
 <p align="center"><strong>AI programming for scientific computing and statistical analysis.</strong></p>

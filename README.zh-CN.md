@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://pize.ai">
+    <img src="assets/pize-logo.svg" width="96" height="96" alt="Pize logo" />
+  </a>
+</p>
+
 <h1 align="center">pize.ai</h1>
 
 <p align="center"><strong>面向科学计算与统计分析的 AI 编程助手。</strong></p>
