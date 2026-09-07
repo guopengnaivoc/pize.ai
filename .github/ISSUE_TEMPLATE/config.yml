@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Product documentation
+    url: https://pize.ai/docs
+    about: Read the official Pize product documentation.
+  - name: Account questions and collaboration
+    url: https://pize.ai/contact
+    about: Contact Pize through the official website.

@@ -1,0 +1,26 @@
+name: Product feedback or documentation
+description: Share a product experience or suggest a documentation improvement.
+title: "[Feedback]: "
+body:
+  - type: markdown
+    attributes:
+      value: "This repository currently contains product information, not product source code. Public issues are visible to everyone; exclude private data and credentials. For account questions, use https://pize.ai/contact."
+  - type: textarea
+    id: context
+    attributes:
+      label: Research task or documentation page
+      description: Describe your task or link to the page you want to improve.
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Experience or suggested improvement
+      description: Explain expected and actual behavior. Include the product version and environment if relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: Synthetic example or additional context
+      description: Optional. Remove identifying details and private information.

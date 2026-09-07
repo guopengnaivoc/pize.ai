@@ -1,0 +1,23 @@
+name: Research workflow idea
+description: Suggest a workflow that Pize could help with.
+title: "[Idea]: "
+body:
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Workflow and audience
+      description: What research task are you doing, and who would benefit?
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Desired outcome
+      description: What concrete result would make the task easier?
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Existing approaches
+      description: Optional. Link to related public tools or documentation. Do not attach private datasets.
