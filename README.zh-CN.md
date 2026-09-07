@@ -12,8 +12,20 @@
 <p align="center">
   <a href="https://pize.ai">官方网站</a> &middot;
   <a href="https://pize.ai/docs">产品文档</a> &middot;
-  <a href="https://pize.ai/download">下载使用</a> &middot;
-  <a href="README.md">English</a>
+  <a href="https://pize.ai/download">下载使用</a>
+</p>
+
+<p align="center" dir="ltr">
+  <a href="README.md">English</a> &middot;
+  <a href="README.zh-CN.md">简体中文</a> &middot;
+  <a href="README.de.md">Deutsch</a> &middot;
+  <a href="README.ja.md">日本語</a> &middot;
+  <a href="README.fr.md">Français</a><br />
+  <a href="README.ar.md">العربية</a> &middot;
+  <a href="README.es.md">Español</a> &middot;
+  <a href="README.hi.md">हिन्दी</a> &middot;
+  <a href="README.id.md">Bahasa Indonesia</a> &middot;
+  <a href="README.ru.md">Русский</a>
 </p>
 
 ---
