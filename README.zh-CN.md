@@ -1,36 +1,45 @@
-# pize.ai
+<a href="https://pize.ai"><img src="assets/pize-home.gif" width="100%" alt="Pize 官网真实首屏动画：面向科研的 AI 编程。点击进入 pize.ai。" /></a>
 
-### 面向科学计算与统计分析的 AI 辅助编程。
+<p align="center">
+  <a href="https://pize.ai"><strong>访问 Pize</strong></a> &nbsp; / &nbsp;
+  <a href="https://pize.ai/docs">使用文档</a> &nbsp; / &nbsp;
+  <a href="https://pize.ai/download">软件下载</a> &nbsp; / &nbsp;
+  <a href="README.md">English</a>
+</p>
 
-[官网](https://pize.ai) · [产品文档](https://pize.ai/docs) · [软件下载](https://pize.ai/download) · [联系](https://pize.ai/contact) · [English](README.md)
+<br />
 
-**Pize** 将 AI 辅助编程带入科研工作流程。本仓库是 Pize 的公开产品与交流入口，由创始人 [@guopengnaivoc](https://github.com/guopengnaivoc) 以 **pize.ai** 名义维护。
+<a href="https://pize.ai/#agent"><img src="assets/pize-agent.png" width="100%" alt="Pize 官网原始功能介绍：跨文件编辑、差异审阅、终端执行、规划与执行模式、项目上下文、规则与模型选择。" /></a>
 
-## 围绕科研工作构建
+<br />
 
-科研编程除了生成代码，还需要理解数据、选择分析方法、检查代码改动和判断结果。
+<a href="https://pize.ai/#work"><img src="assets/pize-workflow.png" width="100%" alt="Pize 官网原有工作流演示画面，点击进入官网体验完整交互。" /></a>
 
-Pize 专注于科学计算、统计分析与科研编程中的 AI 辅助工作流程。具体的编辑器使用方式、数据上下文与产品接口，以 [官方文档](https://pize.ai/docs) 为准。
+<p align="center"><sub>画面直接采集自官网，保留原有设计。点击任一图片进入 Pize。</sub></p>
 
-| 你想了解 | 入口 |
-| --- | --- |
-| Pize 是什么 | [产品官网](https://pize.ai) |
-| 如何使用产品 | [官方文档](https://pize.ai/docs) |
-| 当前软件下载 | [下载页](https://pize.ai/download) |
-| 本仓库的用途 | [常见问题](docs/FAQ.md) |
-| 功能建议与公开反馈 | [GitHub Issues](https://github.com/guopengnaivoc/pize.ai/issues) |
-| 合作与产品咨询 | [联系 Pize](https://pize.ai/contact) |
+---
 
-## 当前公开范围
+由 Pize 创始人 [@guopengnaivoc](https://github.com/guopengnaivoc) 维护，对外署名 **pize.ai**。
 
-本仓库目前用于 **产品介绍与公开交流文档**，尚未上传产品源码、SDK 源码或可运行的示例。
+<details>
+<summary><strong>关于这个仓库</strong></summary>
 
-后续可能逐步发布部分工具、示例和技术说明。每次发布时会说明公开范围、使用方法、许可和已知限制。建立 GitHub 仓库本身不代表 Pize 核心产品已经开源。
+这里是 Pize 的公开产品与交流主页，目前包含产品介绍、宣传素材和社区文档，不包含产品核心源码。未来可能单独发布部分工具、示例和技术记录，并分别说明公开范围及许可证。
 
-软件可用情况请查看官网下载页。本仓库当前不分发产品安装包，也没有定义产品发行版本。
+当前软件获取方式以 [官网下载页面](https://pize.ai/download) 为准。更多说明见[仓库常见问题](docs/FAQ.md)。
 
-## 创始人与交流
+</details>
 
-Pize 由创始人主导开发。本仓库由 [@guopengnaivoc](https://github.com/guopengnaivoc) 维护，对外名称为 **pize.ai**。可以关注 [创始人账号](https://github.com/guopengnaivoc) 查看公开项目动态。
+<details>
+<summary><strong>反馈与联系</strong></summary>
 
-欢迎在 [Issues](https://github.com/guopengnaivoc/pize.ai/issues) 介绍具体科研任务、使用障碍或希望改善的工作流程。参与方式见 [反馈指南](CONTRIBUTING.md)。账户问题和合作咨询请通过 [官网联系入口](https://pize.ai/contact) 提交。
+产品问题与建议可以提交至 [GitHub Issues](https://github.com/guopengnaivoc/pize.ai/issues)。私密问题或合作意向请通过[官网联系页面](https://pize.ai/contact)沟通。请勿在公开讨论中提交密钥、私有研究数据或账户信息。[如何提供有效反馈](CONTRIBUTING.md)。
+
+</details>
+
+<details>
+<summary><strong>静态预览与素材来源</strong></summary>
+
+[查看无动画首屏](assets/pize-home.png)。图片直接采集自 [pize.ai](https://pize.ai)，没有另行重绘。工作流图片是官网自带演示的画面，并非另行录制的软件实机界面。[采集说明与署名](assets/SOURCES.md)。
+
+</details>

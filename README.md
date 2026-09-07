@@ -1,38 +1,45 @@
-# pize.ai
+<a href="https://pize.ai"><img src="assets/pize-home.gif" width="100%" alt="Pize's original homepage in motion: AI programming for the research lab. Click to visit pize.ai." /></a>
 
-### AI-assisted programming for scientific computing and statistical analysis.
+<p align="center">
+  <a href="https://pize.ai"><strong>Explore Pize</strong></a> &nbsp; / &nbsp;
+  <a href="https://pize.ai/docs">Documentation</a> &nbsp; / &nbsp;
+  <a href="https://pize.ai/download">Download</a> &nbsp; / &nbsp;
+  <a href="README.zh-CN.md">简体中文</a>
+</p>
 
-[Website](https://pize.ai) · [Documentation](https://pize.ai/docs) · [Download](https://pize.ai/download) · [Contact](https://pize.ai/contact) · [简体中文](README.zh-CN.md)
+<br />
 
-**Pize** brings AI-assisted coding into research workflows. This is its public product and community hub, maintained by Pize's founder, [@guopengnaivoc](https://github.com/guopengnaivoc), under the name **pize.ai**.
+<a href="https://pize.ai/#agent"><img src="assets/pize-agent.png" width="100%" alt="Original Pize website section: cross-file edits and diff review, terminal execution, plan and act modes, context, project rules, and model choice." /></a>
 
-## Built around research work
+<br />
 
-Scientific programming involves more than producing code. Researchers need to understand their data, choose an approach, inspect proposed changes, and evaluate the results.
+<a href="https://pize.ai/#work"><img src="assets/pize-workflow.png" width="100%" alt="Original interactive workflow demonstration from the Pize website. Open the website to interact with it." /></a>
 
-Pize's focus is AI assistance for that workflow, including scientific computing and statistical analysis. The [product documentation](https://pize.ai/docs) describes its editor workflow, data context, and available interfaces.
+<p align="center"><sub>Real website captures. Open any image to explore Pize.</sub></p>
 
-| Explore | Where to go |
-| --- | --- |
-| What Pize does | [Product website](https://pize.ai) |
-| How the product works | [Documentation](https://pize.ai/docs) |
-| Current software downloads | [Download page](https://pize.ai/download) |
-| Questions about this repository | [Frequently asked questions](docs/FAQ.md) |
-| Suggestions and public feedback | [GitHub Issues](https://github.com/guopengnaivoc/pize.ai/issues) |
-| Collaboration and product inquiries | [Contact Pize](https://pize.ai/contact) |
+---
 
-## About this repository
+Maintained by Pize's founder, [@guopengnaivoc](https://github.com/guopengnaivoc), publishing as **pize.ai**.
 
-This repository currently contains **product information and community documentation**. Product source code, SDK source, and runnable examples have not been uploaded here.
+<details>
+<summary><strong>About this repository</strong></summary>
 
-Selected tools, examples, and technical notes may be shared later. Each publication will identify what is included, how it can be used, its license, and any known limitations. The presence of this repository does not mean that the Pize product is open source.
+This is Pize's public product and community hub. It contains product information, promotional assets, and community documentation, not the product's core source code. Selected tools, examples, and technical notes may be published separately in the future with their own scope and license.
 
-For software availability, use the official download page. This repository does not currently distribute product binaries or define a product release version.
+For current software availability, visit [pize.ai/download](https://pize.ai/download). See the [repository FAQ](docs/FAQ.md) for more information.
 
-## Founder and community
+</details>
 
-Pize is founder-led. This hub is maintained by [@guopengnaivoc](https://github.com/guopengnaivoc), publishing as **pize.ai**. You can follow the [founder's account](https://github.com/guopengnaivoc) for public project activity and use this repository for product questions that are suitable for public discussion.
+<details>
+<summary><strong>Feedback and contact</strong></summary>
 
-Useful feedback starts with a concrete research task: what you are trying to do, where the workflow breaks down, and what would help. See [how to contribute feedback](CONTRIBUTING.md).
+Share product questions and suggestions through [GitHub Issues](https://github.com/guopengnaivoc/pize.ai/issues). For private inquiries and collaboration, [contact Pize](https://pize.ai/contact). Please do not post credentials, private research data, or account details in public issues. Read the [feedback guide](CONTRIBUTING.md).
 
-For account questions or collaboration requests, use [pize.ai/contact](https://pize.ai/contact).
+</details>
+
+<details>
+<summary><strong>Still image and visual credits</strong></summary>
+
+[View the homepage without animation](assets/pize-home.png). The images are captures of [pize.ai](https://pize.ai), not a redesigned mockup. The workflow image shows the website's own demonstration, not a separate application recording. [Capture details and attribution](assets/SOURCES.md).
+
+</details>
