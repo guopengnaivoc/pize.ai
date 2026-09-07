@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">pize.ai</h1>
+<h1 align="center"><img src="assets/pize-wordmark.svg" width="160" height="47" alt="Pize.ai" /></h1>
 
 <p align="center"><strong>科学計算と統計解析のための AI プログラミングアシスタント。</strong></p>
 <p align="center">データを理解し、分析を組み立て、結果を確認する。</p>
@@ -16,27 +16,201 @@
 </p>
 
 <p align="center" dir="ltr">
-  <a href="README.md">简体中文</a> &middot;
-  <a href="README.en.md">English</a> &middot;
-  <a href="README.de.md">Deutsch</a> &middot;
-  <a href="README.ja.md">日本語</a> &middot;
-  <a href="README.fr.md">Français</a><br />
-  <a href="README.ar.md">العربية</a> &middot;
-  <a href="README.es.md">Español</a> &middot;
-  <a href="README.hi.md">हिन्दी</a> &middot;
-  <a href="README.id.md">Bahasa Indonesia</a> &middot;
-  <a href="README.ru.md">Русский</a>
+  <sub><a href="README.md">简体中文</a> &middot; <a href="README.en.md">English</a> &middot; <a href="README.de.md">Deutsch</a> &middot; <a href="README.ja.md">日本語</a> &middot; <a href="README.fr.md">Français</a> &middot; <a href="README.ar.md">العربية</a> &middot; <a href="README.es.md">Español</a> &middot; <a href="README.hi.md">हिन्दी</a> &middot; <a href="README.id.md">Bahasa Indonesia</a> &middot; <a href="README.ru.md">Русский</a></sub>
 </p>
 
 ---
 
 ## 科学計算のエコシステム
 
-<p align="center">
-  <a href="https://pize.ai/zh-Hans/share">
-    <img src="assets/scientific-ecosystem.png" width="960" alt="Pize 公式サイトに掲載された 24 の研究用言語とツール" />
-  </a>
-</p>
+<table width="100%" align="center" dir="ltr">
+  <tr>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <img src="assets/scientific-logos/r.svg" width="57" height="44" alt="R" />
+      <br />
+      <strong>R</strong>
+      <br /><br />
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <img src="assets/scientific-logos/python.svg" width="36" height="44" alt="Python" />
+      <br />
+      <strong>Python</strong>
+      <br /><br />
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <img src="assets/scientific-logos/jupyter.svg" width="34" height="44" alt="Jupyter" />
+      <br />
+      <strong>Jupyter</strong>
+      <br /><br />
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <img src="assets/scientific-logos/julia.svg" width="44" height="44" alt="Julia" />
+      <br />
+      <strong>Julia</strong>
+      <br /><br />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <img src="assets/scientific-logos/rstudio.svg" width="44" height="44" alt="RStudio" />
+      <br />
+      <strong>RStudio</strong>
+      <br /><br />
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <img src="assets/scientific-logos/spss.png" width="46" height="44" alt="SPSS" />
+      <br />
+      <strong>SPSS</strong>
+      <br /><br />
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/scientific-logos/stata-dark.svg" width="88" height="25" />
+        <img src="assets/scientific-logos/stata-light.svg" width="44" height="44" alt="Stata" />
+      </picture>
+      <br />
+      <strong>Stata</strong>
+      <br /><br />
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <img src="assets/scientific-logos/sas.png" width="88" height="44" alt="SAS" />
+      <br />
+      <strong>SAS</strong>
+      <br /><br />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <img src="assets/scientific-logos/cplusplus.svg" width="39" height="44" alt="C++" />
+      <br />
+      <strong>C++</strong>
+      <br /><br />
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <img src="assets/scientific-logos/quarto.svg" width="44" height="44" alt="Quarto" />
+      <br />
+      <strong>Quarto</strong>
+      <br /><br />
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <img src="assets/scientific-logos/numpy.svg" width="44" height="44" alt="NumPy" />
+      <br />
+      <strong>NumPy</strong>
+      <br /><br />
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <img src="assets/scientific-logos/pandas.svg" width="33" height="44" alt="pandas" />
+      <br />
+      <strong>pandas</strong>
+      <br /><br />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <img src="assets/scientific-logos/scipy.svg" width="44" height="44" alt="SciPy" />
+      <br />
+      <strong>SciPy</strong>
+      <br /><br />
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <img src="assets/scientific-logos/scikitlearn.png" width="81" height="44" alt="scikit-learn" />
+      <br />
+      <strong>scikit-learn</strong>
+      <br /><br />
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <img src="assets/scientific-logos/pytorch.svg" width="44" height="44" alt="PyTorch" />
+      <br />
+      <strong>PyTorch</strong>
+      <br /><br />
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <img src="assets/scientific-logos/tensorflow.svg" width="44" height="44" alt="TensorFlow" />
+      <br />
+      <strong>TensorFlow</strong>
+      <br /><br />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/scientific-logos/plotly-dark.svg" width="88" height="29" />
+        <img src="assets/scientific-logos/plotly-light.svg" width="44" height="44" alt="Plotly" />
+      </picture>
+      <br />
+      <strong>Plotly</strong>
+      <br /><br />
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <img src="assets/scientific-logos/imagej.gif" width="88" height="18" alt="ImageJ" />
+      <br />
+      <strong>ImageJ</strong>
+      <br /><br />
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <img src="assets/scientific-logos/graphpad-prism.svg" width="88" height="17" alt="GraphPad Prism" />
+      <br />
+      <strong>GraphPad Prism</strong>
+      <br /><br />
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <img src="assets/scientific-logos/ncss.png" width="88" height="18" alt="NCSS" />
+      <br />
+      <strong>NCSS</strong>
+      <br /><br />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <img src="assets/scientific-logos/cytoscape.svg" width="44" height="44" alt="Cytoscape" />
+      <br />
+      <strong>Cytoscape</strong>
+      <br /><br />
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <img src="assets/scientific-logos/octave.svg" width="44" height="44" alt="GNU Octave" />
+      <br />
+      <strong>GNU Octave</strong>
+      <br /><br />
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <img src="assets/scientific-logos/graphviz.png" width="44" height="44" alt="Graphviz" />
+      <br />
+      <strong>Graphviz</strong>
+      <br /><br />
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <br />
+      <img src="assets/scientific-logos/fiji.png" width="44" height="44" alt="Fiji" />
+      <br />
+      <strong>Fiji</strong>
+      <br /><br />
+    </td>
+  </tr>
+</table>
 
 このロゴ一覧は、Pize 公式サイトに掲載された研究用言語とツールを示し、データ分析、数値計算、機械学習、可視化を含みます。Pize はこうした研究ワークフローを AI プログラミングで支援し、具体的な対応範囲は[公式ドキュメント](https://pize.ai/docs)に記載していますが、各ロゴは公式な提携や推奨を示すものではありません。
 
