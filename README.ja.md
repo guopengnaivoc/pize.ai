@@ -16,8 +16,8 @@
 </p>
 
 <p align="center" dir="ltr">
-  <a href="README.md">English</a> &middot;
-  <a href="README.zh-CN.md">简体中文</a> &middot;
+  <a href="README.md">简体中文</a> &middot;
+  <a href="README.en.md">English</a> &middot;
   <a href="README.de.md">Deutsch</a> &middot;
   <a href="README.ja.md">日本語</a> &middot;
   <a href="README.fr.md">Français</a><br />
@@ -115,4 +115,3 @@ Pize は [@guopengnaivoc](https://github.com/guopengnaivoc) が創設し、**piz
 | **製品に関するご相談** | 製品デモ、導入に関する質問、協力のご相談。 | [contact@pize.ai](mailto:contact@pize.ai?subject=Pize%20product%20inquiry) |
 | **技術サポート** | アカウント、ドキュメント、プライバシー、データ削除の依頼。 | [support@pize.ai](mailto:support@pize.ai?subject=Pize%20support%20request) |
 | **ビジネス・パートナーシップ** | 購入、研究協力、商用利用に関するお問い合わせ。 | [business@pize.ai](mailto:business@pize.ai?subject=Pize%20business%20inquiry) |
-

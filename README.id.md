@@ -16,8 +16,8 @@
 </p>
 
 <p align="center" dir="ltr">
-  <a href="README.md">English</a> &middot;
-  <a href="README.zh-CN.md">简体中文</a> &middot;
+  <a href="README.md">简体中文</a> &middot;
+  <a href="README.en.md">English</a> &middot;
   <a href="README.de.md">Deutsch</a> &middot;
   <a href="README.ja.md">日本語</a> &middot;
   <a href="README.fr.md">Français</a><br />
@@ -115,4 +115,3 @@ Klik alamat untuk membuka aplikasi email dengan subjek yang disarankan. Alamat i
 | **Kontak produk** | Demo produk, pertanyaan penerapan, dan kolaborasi. | [contact@pize.ai](mailto:contact@pize.ai?subject=Pize%20product%20inquiry) |
 | **Dukungan teknis** | Akun, dokumentasi, privasi, dan permintaan penghapusan data. | [support@pize.ai](mailto:support@pize.ai?subject=Pize%20support%20request) |
 | **Bisnis dan kemitraan** | Pembelian, kemitraan penelitian, dan pertanyaan komersial. | [business@pize.ai](mailto:business@pize.ai?subject=Pize%20business%20inquiry) |
-

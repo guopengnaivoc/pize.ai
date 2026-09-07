@@ -16,8 +16,8 @@
 </p>
 
 <p align="center" dir="ltr">
-  <a href="README.md">English</a> &middot;
-  <a href="README.zh-CN.md">简体中文</a> &middot;
+  <a href="README.md">简体中文</a> &middot;
+  <a href="README.en.md">English</a> &middot;
   <a href="README.de.md">Deutsch</a> &middot;
   <a href="README.ja.md">日本語</a> &middot;
   <a href="README.fr.md">Français</a><br />
@@ -115,4 +115,3 @@ Klicke auf eine Adresse, um dein E-Mail-Programm mit einem vorgeschlagenen Betre
 | **Produktkontakt** | Produktdemos, Fragen zur Einführung und Zusammenarbeit. | [contact@pize.ai](mailto:contact@pize.ai?subject=Pize%20product%20inquiry) |
 | **Technischer Support** | Konto, Dokumentation, Datenschutz und Datenlöschungsanfragen. | [support@pize.ai](mailto:support@pize.ai?subject=Pize%20support%20request) |
 | **Geschäftliche Partnerschaften** | Einkauf, Forschungskooperationen und geschäftliche Anfragen. | [business@pize.ai](mailto:business@pize.ai?subject=Pize%20business%20inquiry) |
-

@@ -16,8 +16,8 @@
 </p>
 
 <p align="center" dir="ltr">
-  <a href="README.md">English</a> &middot;
-  <a href="README.zh-CN.md">简体中文</a> &middot;
+  <a href="README.md">简体中文</a> &middot;
+  <a href="README.en.md">English</a> &middot;
   <a href="README.de.md">Deutsch</a> &middot;
   <a href="README.ja.md">日本語</a> &middot;
   <a href="README.fr.md">Français</a><br />
@@ -115,4 +115,3 @@ Cliquez sur une adresse pour ouvrir votre application de messagerie avec un obje
 | **Contact produit** | Démonstrations, questions de mise en place et collaborations. | [contact@pize.ai](mailto:contact@pize.ai?subject=Pize%20product%20inquiry) |
 | **Assistance technique** | Compte, documentation, confidentialité et demandes de suppression de données. | [support@pize.ai](mailto:support@pize.ai?subject=Pize%20support%20request) |
 | **Affaires et partenariats** | Achats, partenariats de recherche et demandes commerciales. | [business@pize.ai](mailto:business@pize.ai?subject=Pize%20business%20inquiry) |
-

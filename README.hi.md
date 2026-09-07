@@ -16,8 +16,8 @@
 </p>
 
 <p align="center" dir="ltr">
-  <a href="README.md">English</a> &middot;
-  <a href="README.zh-CN.md">简体中文</a> &middot;
+  <a href="README.md">简体中文</a> &middot;
+  <a href="README.en.md">English</a> &middot;
   <a href="README.de.md">Deutsch</a> &middot;
   <a href="README.ja.md">日本語</a> &middot;
   <a href="README.fr.md">Français</a><br />
@@ -115,4 +115,3 @@ Pize की स्थापना [@guopengnaivoc](https://github.com/guopengnai
 | **उत्पाद संपर्क** | उत्पाद डेमो, लागू करने से जुड़े सवाल और सहयोग। | [contact@pize.ai](mailto:contact@pize.ai?subject=Pize%20product%20inquiry) |
 | **तकनीकी सहायता** | खाता, दस्तावेज़, गोपनीयता और डेटा हटाने के अनुरोध। | [support@pize.ai](mailto:support@pize.ai?subject=Pize%20support%20request) |
 | **व्यवसाय और साझेदारी** | खरीद, शोध साझेदारी और व्यावसायिक पूछताछ। | [business@pize.ai](mailto:business@pize.ai?subject=Pize%20business%20inquiry) |
-

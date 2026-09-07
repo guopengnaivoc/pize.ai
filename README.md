@@ -6,18 +6,18 @@
 
 <h1 align="center">pize.ai</h1>
 
-<p align="center"><strong>AI programming for scientific computing and statistical analysis.</strong></p>
-<p align="center">Understand the data. Build the analysis. Review the results.</p>
+<p align="center"><strong>面向科学计算与统计分析的 AI 编程助手。</strong></p>
+<p align="center">理解数据，构建分析，审阅结果。</p>
 
 <p align="center">
-  <a href="https://pize.ai">Website</a> &middot;
-  <a href="https://pize.ai/docs">Documentation</a> &middot;
-  <a href="https://pize.ai/download">Download</a>
+  <a href="https://pize.ai">官方网站</a> &middot;
+  <a href="https://pize.ai/docs">产品文档</a> &middot;
+  <a href="https://pize.ai/download">下载使用</a>
 </p>
 
 <p align="center" dir="ltr">
-  <a href="README.md">English</a> &middot;
-  <a href="README.zh-CN.md">简体中文</a> &middot;
+  <a href="README.md">简体中文</a> &middot;
+  <a href="README.en.md">English</a> &middot;
   <a href="README.de.md">Deutsch</a> &middot;
   <a href="README.ja.md">日本語</a> &middot;
   <a href="README.fr.md">Français</a><br />
@@ -30,88 +30,88 @@
 
 ---
 
-## Built around research, not just code completion
+## 围绕科研工作，而不只是补全代码
 
-**Pize is an AI coding assistant for researchers working with scientific code and statistical data.** It helps you understand a project, prepare an analysis, write and run code, inspect output and plots, and revise the next step. Use it in Pize Code, Positron, the CLI, or through the SDK.
+**Pize 是为科学代码和统计数据工作设计的 AI 编程助手。** 从理解项目、准备分析方案，到编写和运行代码、查看输出与图表，再到调整下一步，Pize 将这些工作连接起来。你可以在 Pize Code、Positron、命令行 CLI 中使用，也可以通过 SDK 集成到自己的程序中。
 
-Research errors often begin before a model is fitted: a misplaced delimiter, a missing value read as a number, or an observation mistaken for a header. Pize puts data understanding first, so the coding workflow starts with the structure and meaning of the inputs rather than an assumption about their contents.
+科研分析中的错误，往往在建模之前就已发生：分隔符识别错误、缺失值被当作数字、第一行观测值被误认为表头。Pize 把理解数据放在前面，让后续编程基于输入的真实结构，而不是对文件内容的猜测。
 
-This repository is Pize's public product and community home, maintained by its founder, [@guopengnaivoc](https://github.com/guopengnaivoc).
+这里是 Pize 的公开产品与社区主页，由创始人 [@guopengnaivoc](https://github.com/guopengnaivoc) 维护。
 
-## What Pize does
+## Pize 能做什么
 
-| Capability | What it brings to your work |
+| 核心能力 | 对应的工作方式 |
 | --- | --- |
-| **Data-aware reading** | Detect delimiters, headers, missing values, and column types from file contents. Handle comments, metadata, and compressed tables. |
-| **Context for large datasets** | Provide a compact data card when a file exceeds the context budget, including schema, a small preview, and explicitly estimated row counts. |
-| **Live R / Python context** | In Positron, inspect the focused session and summarize data frames. Run code and retrieve plots with approval, then iterate on real output. |
-| **Reviewable code changes** | Coordinate edits across files, inspect diffs, undo changes, and return to a previous task checkpoint. |
-| **Planning and execution** | Explore the project in plan mode, agree on an approach, then write code and run terminal commands with approval. |
-| **Project and browser context** | Reference files, folders, problems, and URLs. Use browser interactions, screenshots, and logs when debugging. |
-| **Reusable conventions** | Apply project rules and skills for statistical definitions, plotting conventions, and directory structure. |
+| **理解数据文件** | 根据内容识别分隔符、表头、缺失值和各列类型，处理注释、元数据以及压缩表格。 |
+| **为大数据提供精简上下文** | 文件超出上下文预算时，提供包含结构、小量预览和明确标注的估算行数的数据卡，而不是把整张表塞进对话。 |
+| **连接真实 R / Python 会话** | 在 Positron 中查看当前会话、汇总数据框，经批准后运行代码和获取图表，再根据实际输出继续调整。 |
+| **可审阅的代码修改** | 协调多个文件的改动，查看差异、撤销修改，并回到此前的任务检查点。 |
+| **先规划，再执行** | 先了解项目并讨论分析方案，再经批准编写代码、运行终端命令。 |
+| **项目与浏览器上下文** | 引用文件、文件夹、问题和网址；需要调试时，结合浏览器操作、截图和日志定位问题。 |
+| **复用项目规范** | 通过项目规则与技能，组织统计定义、绘图约定和目录规范。 |
 
-For research containers such as Parquet, Arrow, RDS, HDF5, h5ad, NumPy, SPSS, and Stata, Pize identifies the format and guides the appropriate loading code. This is distinct from decoding every binary format directly into the conversation. See the [data-reading and runtime documentation](https://pize.ai/docs) for the supported behavior and boundaries.
+对于 Parquet、Arrow、RDS、HDF5、h5ad、NumPy、SPSS、Stata 等科研数据容器，Pize 可以识别格式并引导生成相应的读取代码。这不等于将所有二进制格式直接解码为对话内容。具体行为与边界见[数据读取和运行时文档](https://pize.ai/docs)。
 
-## Work in the environment you already use
+## 在你习惯的环境中使用
 
-| Interface | Use it for |
+| 使用方式 | 适用场景 |
 | --- | --- |
-| **Pize Code** | Editor-based assistance, project context, reviewable edits, and terminal workflows. |
-| **Positron** | The same agent, with access to the R or Python session you already have focused. |
-| **CLI** | Working with Pize from the command line. |
-| **SDK** | Embedding the agent and its data-oriented capabilities in your own programs and internal tools. |
+| **Pize Code** | 在编辑器中理解项目、审阅代码修改，并完成终端工作流。 |
+| **Positron** | 使用同一个编程助手，并连接当前已聚焦的 R 或 Python 会话。 |
+| **CLI** | 从命令行使用 Pize。 |
+| **SDK** | 将编程助手及其面向数据的能力嵌入自己的程序或内部工具。 |
 
-The live session bridge is specific to Positron; it is not a promise that every interface has identical runtime access. Installation and interface details are maintained in the [official documentation](https://pize.ai/docs).
+实时会话桥接是 Positron 环境的特定能力，并不代表所有入口都具有相同的运行时访问方式。安装与各入口的具体说明以[官方文档](https://pize.ai/docs)为准。
 
-## Models and connected tools
+## 模型选择与工具连接
 
-Pize supports cloud and local model connections, including Anthropic, OpenAI, Google Gemini, DeepSeek, AWS Bedrock, and OpenRouter, as well as OpenAI-compatible endpoints. Choose a provider and configuration that fit your research environment.
+Pize 支持云端与本地模型连接，包括 Anthropic、OpenAI、Google Gemini、DeepSeek、AWS Bedrock、OpenRouter，以及兼容 OpenAI 接口的服务。你可以按研究需求和部署环境选择模型与配置。
 
-**The SDK embeds Pize; MCP connects Pize to external tools.** As an MCP client, Pize can connect to compatible servers for databases, internal systems, and lab tooling. Available operations depend on the server you connect and the permissions you grant.
+**SDK 负责把 Pize 嵌入你的程序，MCP 负责让 Pize 连接外部工具。** Pize 作为 MCP 客户端，可以通过兼容的服务器连接数据库、内部系统和实验室工具。实际可用操作取决于所连接的服务器以及你授予的权限。
 
-## Get started
+## 开始使用
 
-1. **Choose your interface.** Start with the [official download page](https://pize.ai/download) and follow the setup instructions for your environment.
-2. **Configure a model.** Connect a supported provider or local endpoint using the documented configuration.
-3. **Bring your research context.** Open the project and attach the relevant script or data. In Positron, focus the session containing the data you want to analyze.
-4. **Plan, approve, and iterate.** Agree on the approach, review proposed actions, then inspect the generated code, output, and plots before proceeding.
+1. **选择使用环境。** 从[官方下载页](https://pize.ai/download)开始，按照文档完成对应环境的安装。
+2. **配置模型。** 根据文档连接支持的模型服务或本地接口。
+3. **提供科研上下文。** 打开项目，附上相关脚本或数据；使用 Positron 时，聚焦已载入目标数据的会话。
+4. **规划、批准、迭代。** 先确定分析思路，再审阅操作；运行后检查代码、输出和图表，然后决定下一步。
 
 <details>
-<summary><strong>Example research requests</strong></summary>
+<summary><strong>可以从这些研究问题开始</strong></summary>
 
-These are starting prompts, not claims of independently validated results.
+以下是使用提示示例，不是已经过独立验证的分析结果。
 
-- "Inspect this dataset's columns, types, and missing values before proposing an analysis."
-- "Explain this R or Python pipeline and identify the assumptions I should review."
-- "Help me revise this analysis script, run it after approval, and interpret the diagnostic plots."
+- “先检查这个数据集的列、类型和缺失值，再提出分析建议。”
+- “解释这段 R 或 Python 分析流程，列出需要我审阅的假设。”
+- “帮我修改分析脚本，在批准后运行，并结合诊断图解释结果。”
 
 </details>
 
-Pize assists with the workflow; it does not replace scientific judgment. Review method assumptions and outputs before relying on a result. Data handling depends on the tools and model services you configure; consult the product's [privacy information](https://pize.ai/privacy) and your provider's policies.
+Pize 辅助工作流程，但不能代替科研判断。依赖分析结果之前，请审阅方法假设与输出。数据处理方式与所配置的工具和模型服务有关，请同时阅读产品的[隐私说明](https://pize.ai/privacy)及模型提供方政策。
 
-## What is public here
+## 这个仓库公开什么
 
-This repository contains product information, community guidance, and the standalone [interactive protein viewer](https://guopengnaivoc.github.io/pize.ai/). The viewer is a visual demonstration, not a protein-prediction service or evidence of validated scientific results. Its data attribution is documented in [protein credits](assets/protein-CREDITS.md).
+本仓库提供产品介绍、社区说明，以及独立的[蛋白质交互展示页](https://guopengnaivoc.github.io/pize.ai/)。展示页是视觉演示，不是蛋白质预测服务，也不代表经过验证的科研结果；数据来源见[蛋白质素材说明](assets/protein-CREDITS.md)。
 
-**Pize's core application source code is not published in this repository.** The public viewer does not make the full product open source. Selected tools, examples, and technical notes may be published separately in the future, with their own scope and licensing. Use the official website for software downloads and current availability.
+**Pize 核心应用源码未在本仓库公开。** 展示页的公开不代表完整产品开源。未来可以单独发布部分工具、示例和技术笔记，并分别说明公开范围与许可。软件获取方式和当前可用性以官网为准。
 
-## Founder, feedback, and collaboration
+## 创始人、反馈与合作
 
-Pize is founded and maintained by [@guopengnaivoc](https://github.com/guopengnaivoc), publishing under the name **pize.ai**. The website is the product entry point; this repository is where public project information and community feedback come together.
+Pize 由 [@guopengnaivoc](https://github.com/guopengnaivoc) 创立和维护，对外使用 **pize.ai** 品牌。官网是产品入口，这个仓库用于公开项目介绍、维护社区资料并收集反馈。
 
-- **Product questions and feature requests:** open a [GitHub issue](https://github.com/guopengnaivoc/pize.ai/issues).
-- **Useful bug reports:** describe your environment, the task, expected behavior, actual behavior, and a minimal example. See [contribution guidance](CONTRIBUTING.md).
-- **Collaboration, lab use, or private inquiries:** choose the appropriate email address below.
+- **产品问题与功能建议：** 提交 [GitHub Issue](https://github.com/guopengnaivoc/pize.ai/issues)。
+- **报告问题：** 说明使用环境、具体任务、预期行为、实际行为，并尽量提供最小示例，详见[参与指南](CONTRIBUTING.md)。
+- **合作、实验室使用或私密咨询：** 通过下方对应的邮箱联系。
 
-Do not post API keys, credentials, private datasets, or confidential research in public issues. For current product capabilities and setup details, refer to [pize.ai](https://pize.ai) and its [documentation](https://pize.ai/docs).
+请勿在公开 Issue 中上传 API 密钥、账号凭据、私有数据集或未公开研究资料。产品功能与安装细节以 [pize.ai](https://pize.ai) 和[官方文档](https://pize.ai/docs)为准。
 
-## Contact Pize
+## 联系 Pize
 
-Click an address to open your email app with a suggested subject. These addresses are published on the [official contact page](https://pize.ai/contact).
+点击邮箱即可打开邮件应用，并预填对应的邮件主题。以下地址来自[官网联系页](https://pize.ai/contact)。
 
-| Contact | For | Email |
+| 联系类别 | 适用事项 | 邮箱 |
 | --- | --- | --- |
-| **General inquiries** | Product questions, media requests, and release updates. | [hello@pize.ai](mailto:hello@pize.ai?subject=Pize%20general%20inquiry) |
-| **Product contact** | Product demos, implementation questions, and collaborations. | [contact@pize.ai](mailto:contact@pize.ai?subject=Pize%20product%20inquiry) |
-| **Technical support** | Account, documentation, privacy, and data deletion requests. | [support@pize.ai](mailto:support@pize.ai?subject=Pize%20support%20request) |
-| **Business and partnerships** | Purchasing, research partnerships, and commercial inquiries. | [business@pize.ai](mailto:business@pize.ai?subject=Pize%20business%20inquiry) |
+| **一般咨询** | 产品问题、媒体咨询与版本更新信息。 | [hello@pize.ai](mailto:hello@pize.ai?subject=Pize%20general%20inquiry) |
+| **产品联系** | 产品演示、实施问题与合作沟通。 | [contact@pize.ai](mailto:contact@pize.ai?subject=Pize%20product%20inquiry) |
+| **技术支持** | 账号、文档、隐私与数据删除请求。 | [support@pize.ai](mailto:support@pize.ai?subject=Pize%20support%20request) |
+| **商务合作** | 采购、科研合作与商业咨询。 | [business@pize.ai](mailto:business@pize.ai?subject=Pize%20business%20inquiry) |
