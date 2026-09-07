@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://pize.ai" title="Protein data: AlphaFold Protein Structure Database, DeepMind and EMBL-EBI. CC BY 4.0.">
+  <a href="https://guopengnaivoc.github.io/pize.ai/" title="Open the interactive protein viewer. Protein data: AlphaFold Protein Structure Database, DeepMind and EMBL-EBI. CC BY 4.0.">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/protein-dark.gif" />
-      <img src="assets/protein-light.gif" width="720" alt="Rotating protein AF-G1JSI4-F1. Data: AlphaFold Protein Structure Database, DeepMind and EMBL-EBI, CC BY 4.0." />
+      <img src="assets/protein-light.gif" width="720" alt="Rotating protein AF-G1JSI4-F1. Click to explore all 12 proteins. Data: AlphaFold Protein Structure Database, DeepMind and EMBL-EBI, CC BY 4.0." />
     </picture>
   </a>
 </p>
