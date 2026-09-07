@@ -30,6 +30,16 @@
 
 ---
 
+## Ekosistem komputasi ilmiah
+
+<p align="center">
+  <a href="https://pize.ai/zh-Hans/share">
+    <img src="assets/scientific-ecosystem.png" width="960" alt="24 bahasa dan alat penelitian yang ditampilkan di situs Pize" />
+  </a>
+</p>
+
+Dinding logo ini menampilkan bahasa dan alat penelitian yang tercantum di situs Pize, meliputi analisis data, komputasi numerik, pembelajaran mesin, dan visualisasi. Pize menyediakan bantuan pemrograman AI untuk alur kerja tersebut; lihat [dokumentasi resmi](https://pize.ai/docs) untuk cakupan dukungan, dan perlu diingat bahwa logo tidak menyiratkan kemitraan atau dukungan resmi dari merek terkait.
+
 ## Dirancang untuk penelitian, bukan sekadar melengkapi kode
 
 **Pize adalah asisten pemrograman AI bagi peneliti yang bekerja dengan kode ilmiah dan data statistik.** Pize membantu memahami proyek, menyiapkan analisis, menulis dan menjalankan kode, memeriksa keluaran serta grafik, lalu menyempurnakan langkah berikutnya. Gunakan melalui Pize Code, Positron, CLI, atau SDK.

@@ -30,6 +30,16 @@
 
 ---
 
+## Scientific computing ecosystem
+
+<p align="center">
+  <a href="https://pize.ai/zh-Hans/share">
+    <img src="assets/scientific-ecosystem.png" width="960" alt="24 scientific languages and tools shown on the Pize website" />
+  </a>
+</p>
+
+This logo wall presents the research languages and tools listed on the Pize website, spanning data analysis, numerical computing, machine learning, and visualization. Pize brings AI programming assistance to these research workflows; consult the [official documentation](https://pize.ai/docs) for the scope of support, and note that the logos do not imply official partnerships or endorsements.
+
 ## Built around research, not just code completion
 
 **Pize is an AI coding assistant for researchers working with scientific code and statistical data.** It helps you understand a project, prepare an analysis, write and run code, inspect output and plots, and revise the next step. Use it in Pize Code, Positron, the CLI, or through the SDK.

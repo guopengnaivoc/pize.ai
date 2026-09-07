@@ -30,6 +30,16 @@
 
 ---
 
+## Écosystème du calcul scientifique
+
+<p align="center">
+  <a href="https://pize.ai/zh-Hans/share">
+    <img src="assets/scientific-ecosystem.png" width="960" alt="24 langages et outils scientifiques présentés sur le site Pize" />
+  </a>
+</p>
+
+Ce mur de logos présente les langages et outils de recherche répertoriés sur le site Pize, de l'analyse de données au calcul numérique, à l'apprentissage automatique et à la visualisation. Pize apporte une assistance de programmation IA à ces activités ; la [documentation officielle](https://pize.ai/docs) précise le périmètre de prise en charge, et les logos n'impliquent aucun partenariat ni aucune approbation officielle des marques.
+
 ## Pensé pour la recherche, pas seulement pour compléter du code
 
 **Pize est un assistant de programmation IA destiné aux chercheurs qui travaillent avec du code scientifique et des données statistiques.** Il aide à comprendre un projet, préparer une analyse, écrire et exécuter du code, examiner les sorties et les graphiques, puis ajuster la suite. Il s'utilise dans Pize Code, Positron, en ligne de commande ou via le SDK.

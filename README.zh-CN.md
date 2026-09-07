@@ -30,6 +30,16 @@
 
 ---
 
+## 科学计算生态
+
+<p align="center">
+  <a href="https://pize.ai/zh-Hans/share">
+    <img src="assets/scientific-ecosystem.png" width="960" alt="官网展示的 24 种科研语言与工具" />
+  </a>
+</p>
+
+这面 Logo 墙展示官网列出的科研语言与工具生态，涵盖数据分析、数值计算、机器学习和可视化。Pize 面向这些科研工作流提供 AI 编程辅助，具体支持范围以[官方文档](https://pize.ai/docs)为准，图中 Logo 不代表相关品牌的官方合作或背书。
+
 ## 围绕科研工作，而不只是补全代码
 
 **Pize 是为科学代码和统计数据工作设计的 AI 编程助手。** 从理解项目、准备分析方案，到编写和运行代码、查看输出与图表，再到调整下一步，Pize 将这些工作连接起来。你可以在 Pize Code、Positron、命令行 CLI 中使用，也可以通过 SDK 集成到自己的程序中。

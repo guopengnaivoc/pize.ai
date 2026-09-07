@@ -30,6 +30,16 @@
 
 ---
 
+## Ökosystem für wissenschaftliches Rechnen
+
+<p align="center">
+  <a href="https://pize.ai/zh-Hans/share">
+    <img src="assets/scientific-ecosystem.png" width="960" alt="24 wissenschaftliche Sprachen und Werkzeuge von der Pize-Website" />
+  </a>
+</p>
+
+Diese Logo-Wand zeigt die auf der Pize-Website aufgeführten Forschungssprachen und Werkzeuge für Datenanalyse, numerisches Rechnen, maschinelles Lernen und Visualisierung. Pize unterstützt solche Forschungsabläufe mit KI-gestützter Programmierung; den jeweiligen Unterstützungsumfang beschreibt die [offizielle Dokumentation](https://pize.ai/docs), und die Logos bedeuten keine offizielle Partnerschaft oder Empfehlung der Marken.
+
 ## Für Forschung entwickelt, nicht nur für Codevervollständigung
 
 **Pize ist ein KI-Programmierassistent für Forschende, die mit wissenschaftlichem Code und statistischen Daten arbeiten.** Er unterstützt dabei, Projekte zu verstehen, Analysen vorzubereiten, Code zu schreiben und auszuführen, Ausgaben und Diagramme zu betrachten und den nächsten Schritt anzupassen. Pize lässt sich in Pize Code, Positron, über die CLI oder das SDK nutzen.
