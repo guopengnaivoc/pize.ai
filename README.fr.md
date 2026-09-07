@@ -21,7 +21,7 @@
 
 ---
 
-## <img src="assets/section-icons/ecosystem.svg" width="22" height="22" alt="" /> **Écosystème du calcul scientifique**
+## <img src="assets/section-icons/ecosystem.svg" width="22" height="22" alt="" /> **L'écosystème du calcul scientifique**
 
 <table width="100%" align="center" dir="ltr">
   <tr>
@@ -134,88 +134,87 @@
   </tr>
 </table>
 
-Ce mur de logos présente les langages et outils de recherche répertoriés sur le site Pize, de l'analyse de données au calcul numérique, à l'apprentissage automatique et à la visualisation. Pize apporte une assistance de programmation IA à ces activités ; la [documentation officielle](https://pize.ai/docs) précise le périmètre de prise en charge, et les logos n'impliquent aucun partenariat ni aucune approbation officielle des marques.
+Pize s'adapte à différents langages et outils scientifiques utilisés pour l'analyse de données, le calcul numérique, l'apprentissage automatique et la visualisation. Il accompagne ces activités avec une aide à la programmation par IA ; la [documentation officielle](https://pize.ai/docs) précise le périmètre de prise en charge.
 
-## <img src="assets/section-icons/research.svg" width="22" height="22" alt="" /> **Pensé pour la recherche, pas seulement pour compléter du code**
+## <img src="assets/section-icons/research.svg" width="22" height="22" alt="" /> **Pour la recherche : compléter du code, en écrire et y repérer les bugs**
 
-**Pize est un assistant de programmation IA destiné aux chercheurs qui travaillent avec du code scientifique et des données statistiques.** Il aide à comprendre un projet, préparer une analyse, écrire et exécuter du code, examiner les sorties et les graphiques, puis ajuster la suite. Il s'utilise dans Pize Code, Positron, en ligne de commande ou via le SDK.
+**Pize est un assistant de programmation IA conçu pour le code scientifique et les données statistiques.** Il accompagne les étapes du travail de recherche : comprendre un projet, préparer une analyse, écrire et exécuter du code, examiner les sorties et les graphiques, puis ajuster la suite. Il s'utilise dans Pize Code, Positron ou en ligne de commande, et peut être intégré à vos programmes grâce au SDK.
 
-Les erreurs apparaissent souvent avant l'ajustement d'un modèle : mauvais séparateur, valeur manquante interprétée comme un nombre ou observation prise pour un en-tête. Pize donne la priorité à la compréhension des données afin de travailler à partir de leur structure plutôt que d'hypothèses sur le contenu du fichier.
+Les erreurs d'analyse surviennent souvent avant même la modélisation : un séparateur mal reconnu, une valeur manquante traitée comme un nombre, ou une première observation prise pour un en-tête. Pize commence par la compréhension des données, pour que le code repose sur la structure réelle des entrées plutôt que sur des suppositions concernant le fichier.
 
-Ce dépôt est l'espace public de présentation et de communauté de Pize, maintenu par son fondateur, [@guopengnaivoc](https://github.com/guopengnaivoc).
+Ce dépôt est l'espace public de présentation du produit et de sa communauté. Il est maintenu par le fondateur de Pize, [@guopengnaivoc](https://github.com/guopengnaivoc).
 
-## <img src="assets/section-icons/features.svg" width="22" height="22" alt="" /> **Ce que propose Pize**
+## <img src="assets/section-icons/features.svg" width="22" height="22" alt="" /> **Ce que Pize peut vous apporter**
 
-| Fonctionnalité | Apport au travail de recherche |
+| Fonctionnalité | Utilité au quotidien |
 | --- | --- |
-| **Lecture adaptée aux données** | Détecter séparateurs, en-têtes, valeurs manquantes et types de colonnes à partir du contenu ; prendre en compte commentaires, métadonnées et tableaux compressés. |
-| **Contexte pour les grands jeux de données** | Fournir une fiche compacte lorsque le budget de contexte est dépassé, avec schéma, petit aperçu et nombre de lignes explicitement estimé. |
-| **Session R / Python réelle** | Dans Positron, inspecter la session active et résumer les tableaux de données. Après autorisation, exécuter du code et récupérer des graphiques pour travailler sur des sorties réelles. |
-| **Modifications vérifiables** | Coordonner les changements entre fichiers, examiner les différences, annuler des modifications et revenir à un point de contrôle antérieur. |
-| **Planification et exécution** | Explorer le projet en mode planification, convenir d'une approche, puis écrire du code et lancer des commandes avec autorisation. |
-| **Contexte du projet et du navigateur** | Référencer fichiers, dossiers, problèmes et URL ; utiliser le navigateur, les captures d'écran et les journaux pendant le débogage. |
-| **Conventions réutilisables** | Appliquer règles de projet et compétences pour les définitions statistiques, les conventions graphiques et l'organisation des dossiers. |
+| **Comprendre les fichiers de données** | Reconnaître séparateurs, en-têtes, valeurs manquantes et types de colonnes à partir du contenu, et tenir compte des commentaires, métadonnées et tableaux compressés. |
+| **Résumer le contexte des grands jeux de données** | Lorsqu'un fichier dépasse le budget de contexte, fournir une fiche concise avec sa structure, un court aperçu et un nombre de lignes clairement présenté comme une estimation, plutôt que d'insérer tout le tableau dans la conversation. |
+| **Travailler dans une vraie session R / Python** | Dans Positron, consulter la session active et résumer les tableaux de données. Après autorisation, exécuter du code et récupérer des graphiques, puis ajuster l'analyse à partir des sorties réelles. |
+| **Examiner les modifications de code** | Coordonner des changements entre fichiers, consulter les différences, annuler des modifications et revenir à un point de contrôle antérieur de la tâche. |
+| **Planifier avant d'agir** | Comprendre d'abord le projet et discuter du plan d'analyse, puis écrire du code et exécuter des commandes dans le terminal après autorisation. |
+| **Exploiter le contexte du projet et du navigateur** | Référencer fichiers, dossiers, problèmes et URL ; associer navigation, captures d'écran et journaux pour rechercher l'origine d'un bug. |
+| **Réutiliser les conventions du projet** | Organiser les définitions statistiques, les règles de présentation des graphiques et la structure des dossiers à l'aide de règles de projet et de compétences. |
 
-Pour les formats de recherche comme Parquet, Arrow, RDS, HDF5, h5ad, NumPy, SPSS et Stata, Pize identifie le format et aide à produire le code de chargement approprié. Cela ne signifie pas décoder directement chaque format binaire dans la conversation. La [documentation sur la lecture des données et l'environnement d'exécution](https://pize.ai/docs) précise les comportements et les limites.
+Pour les formats de recherche comme Parquet, Arrow, RDS, HDF5, h5ad, NumPy, SPSS et Stata, Pize peut identifier le format et aider à produire le code de chargement approprié. Cela ne signifie pas que tous les fichiers binaires sont directement décodés dans la conversation. Les comportements et les limites sont précisés dans la [documentation sur la lecture des données et l'environnement d'exécution](https://pize.ai/docs).
 
-## <img src="assets/section-icons/interfaces.svg" width="22" height="22" alt="" /> **Travailler dans votre environnement habituel**
+## <img src="assets/section-icons/interfaces.svg" width="22" height="22" alt="" /> **Gardez votre environnement de travail**
 
 | Interface | Utilisation |
 | --- | --- |
-| **Pize Code** | Assistance dans l'éditeur, contexte du projet, examen des modifications et travail dans le terminal. |
-| **Positron** | Le même agent, avec accès à la session R ou Python déjà active. |
+| **Pize Code** | Comprendre le projet, examiner les modifications et travailler dans le terminal depuis l'éditeur. |
+| **Positron** | Retrouver le même assistant, connecté à la session R ou Python actuellement au premier plan. |
 | **CLI** | Utiliser Pize en ligne de commande. |
-| **SDK** | Intégrer l'agent et ses capacités orientées données dans vos programmes et outils internes. |
+| **SDK** | Intégrer l'assistant et ses fonctions orientées données à vos programmes ou outils internes. |
 
-La passerelle vers la session en cours est propre à Positron. Toutes les interfaces ne disposent pas du même accès à l'environnement d'exécution. Consultez la [documentation officielle](https://pize.ai/docs) pour l'installation et les détails.
+La passerelle vers une session en cours est propre à Positron : toutes les interfaces ne disposent pas du même accès à l'environnement d'exécution. Consultez la [documentation officielle](https://pize.ai/docs) pour l'installation et les particularités de chaque interface.
 
-## <img src="assets/section-icons/models.svg" width="22" height="22" alt="" /> **Modèles et outils connectés**
+## <img src="assets/section-icons/models.svg" width="22" height="22" alt="" /> **Choix des modèles et connexion aux outils**
 
-Pize prend en charge des modèles cloud et locaux, notamment Anthropic, OpenAI, Google Gemini, DeepSeek, AWS Bedrock et OpenRouter, ainsi que des points d'accès compatibles avec OpenAI. Choisissez un fournisseur et une configuration adaptés à votre environnement de recherche.
+Pize permet de se connecter à des modèles cloud ou locaux, notamment Anthropic, OpenAI, Google Gemini, DeepSeek, AWS Bedrock et OpenRouter, ainsi qu'à des services dotés d'une API compatible avec OpenAI. Choisissez le modèle et la configuration adaptés à vos besoins de recherche et à votre environnement de déploiement.
 
-**Le SDK intègre Pize ; MCP relie Pize aux outils externes.** En tant que client MCP, Pize peut se connecter à des serveurs compatibles pour accéder à des bases de données, systèmes internes et outils de laboratoire. Les opérations disponibles dépendent du serveur et des permissions accordées.
+**Le SDK sert à intégrer Pize dans votre programme ; MCP sert à le relier à des outils externes.** En tant que client MCP, Pize peut se connecter, via des serveurs compatibles, à des bases de données, des systèmes internes et des outils de laboratoire. Les opérations disponibles dépendent du serveur et des permissions que vous accordez.
 
-## <img src="assets/section-icons/start.svg" width="22" height="22" alt="" /> **Premiers pas**
+## <img src="assets/section-icons/start.svg" width="22" height="22" alt="" /> **Bien démarrer**
 
-1. **Choisir une interface.** Commencez par la [page officielle de téléchargement](https://pize.ai/download) et suivez les instructions adaptées à votre environnement.
-2. **Configurer un modèle.** Connectez un fournisseur pris en charge ou un point d'accès local conformément à la documentation.
-3. **Fournir le contexte de recherche.** Ouvrez le projet et joignez les scripts ou données utiles. Dans Positron, activez la session contenant les données à analyser.
-4. **Planifier, autoriser et itérer.** Convenez de l'approche, examinez les actions proposées, puis inspectez le code, les sorties et les graphiques avant de continuer.
+1. **Choisissez votre environnement.** Commencez par la [page officielle de téléchargement](https://pize.ai/download) et suivez les instructions d'installation adaptées à votre configuration.
+2. **Configurez un modèle.** Suivez la documentation pour connecter un service de modèles pris en charge ou un point d'accès local.
+3. **Fournissez le contexte de recherche.** Ouvrez le projet et joignez les scripts ou les données utiles. Dans Positron, activez la session dans laquelle les données à analyser sont déjà chargées.
+4. **Planifiez, autorisez, puis ajustez.** Convenez d'abord de la démarche et examinez les actions proposées. Après l'exécution, vérifiez le code, les sorties et les graphiques avant de décider de la suite.
 
-### <img src="assets/section-icons/examples.svg" width="20" height="20" alt="" /> **Exemples de demandes de recherche**
+### <img src="assets/section-icons/examples.svg" width="20" height="20" alt="" /> **Quelques demandes pour commencer**
 
-Ces formulations servent de points de départ ; elles ne constituent pas des résultats validés indépendamment.
+Il s'agit d'exemples de demandes, pas de résultats d'analyse validés indépendamment.
 
-- « Examine les colonnes, les types et les valeurs manquantes de ce jeu de données avant de proposer une analyse. »
-- « Explique ce pipeline R ou Python et indique les hypothèses que je devrais vérifier. »
-- « Aide-moi à modifier ce script d'analyse, exécute-le après autorisation et explique les graphiques de diagnostic. »
+- « Vérifie les colonnes, les types et les valeurs manquantes de ce jeu de données avant de proposer une analyse. »
+- « Explique cette procédure d'analyse en R ou Python et liste les hypothèses que je dois examiner. »
+- « Aide-moi à modifier ce script d'analyse, exécute-le après mon autorisation et explique les résultats à partir des graphiques de diagnostic. »
 
+Pize facilite le travail, mais ne remplace pas le jugement scientifique. Examinez les hypothèses méthodologiques et les sorties avant de vous appuyer sur une analyse. Le traitement des données dépend des outils et services de modèles configurés ; lisez les [informations de confidentialité](https://pize.ai/privacy) du produit ainsi que les politiques de votre fournisseur de modèles.
 
-Pize accompagne le travail sans remplacer le jugement scientifique. Vérifiez les hypothèses méthodologiques et les sorties avant de vous fier aux résultats. Le traitement des données dépend des outils et services de modèles configurés ; consultez les [informations de confidentialité](https://pize.ai/privacy) et les politiques de votre fournisseur.
+## <img src="assets/section-icons/repository.svg" width="22" height="22" alt="" /> **Ce que ce dépôt rend public**
 
-## <img src="assets/section-icons/repository.svg" width="22" height="22" alt="" /> **Ce qui est public ici**
+Ce dépôt contient une présentation du produit, des indications pour la communauté et une [visualisation interactive de protéines](https://guopengnaivoc.github.io/pize.ai/) autonome. Cette page est une démonstration visuelle, pas un service de prédiction de protéines ni une présentation de résultats de recherche validés. Les sources des données figurent dans les [crédits des ressources protéiques](assets/protein-CREDITS.md).
 
-Ce dépôt contient des informations produit, des indications pour la communauté et une [visualisation interactive de protéines](https://guopengnaivoc.github.io/pize.ai/) autonome. Cette visualisation est une démonstration visuelle, pas un service de prédiction de protéines ni une preuve de résultats scientifiques validés. Les sources sont indiquées dans les [crédits des protéines](assets/protein-CREDITS.md).
-
-**Le code source de l'application principale Pize n'est pas publié dans ce dépôt.** La publication de la visualisation ne rend pas l'ensemble du produit open source. Certains outils, exemples et notes techniques pourront être publiés séparément, avec leur périmètre et leur licence. Consultez le site officiel pour les logiciels et leur disponibilité actuelle.
+**Le code source de l'application principale Pize n'est pas publié dans ce dépôt.** Rendre la visualisation publique ne rend pas l'ensemble du produit open source. Certains outils, exemples et notes techniques pourront être publiés séparément, avec un périmètre et une licence propres à chacun. Le site officiel reste la référence pour obtenir le logiciel et connaître sa disponibilité.
 
 ## <img src="assets/section-icons/community.svg" width="22" height="22" alt="" /> **Fondateur, retours et collaboration**
 
-Pize a été fondé par [@guopengnaivoc](https://github.com/guopengnaivoc), qui le maintient sous le nom **pize.ai**. Le site est le point d'entrée du produit ; ce dépôt rassemble les informations publiques du projet et les retours de la communauté.
+Pize a été fondé par [@guopengnaivoc](https://github.com/guopengnaivoc), qui le maintient sous la marque **pize.ai**. Le site donne accès au produit ; ce dépôt présente le projet, regroupe les ressources de la communauté et recueille les retours.
 
-- **Questions produit et demandes de fonctionnalités :** ouvrez une [issue GitHub](https://github.com/guopengnaivoc/pize.ai/issues).
-- **Signalements utiles :** précisez l'environnement, la tâche, le comportement attendu, le comportement observé et un exemple minimal. Consultez le [guide de contribution](CONTRIBUTING.md).
-- **Collaboration, utilisation en laboratoire ou demande privée :** choisissez l'adresse électronique appropriée ci-dessous.
+- **Questions sur le produit et suggestions de fonctionnalités :** ouvrez une [issue GitHub](https://github.com/guopengnaivoc/pize.ai/issues).
+- **Signaler un problème :** indiquez l'environnement, la tâche, le comportement attendu et le comportement observé, avec si possible un exemple minimal. Consultez le [guide de contribution](CONTRIBUTING.md).
+- **Collaboration, utilisation en laboratoire ou demande privée :** écrivez à l'adresse appropriée ci-dessous.
 
-Ne publiez pas de clés API, d'identifiants, de jeux de données privés ou de travaux de recherche confidentiels dans les issues publiques. Les fonctionnalités actuelles et les instructions figurent sur [pize.ai](https://pize.ai/fr) et dans sa [documentation](https://pize.ai/docs).
+Ne publiez pas de clés API, d'identifiants de compte, de données privées ou de travaux de recherche non publiés dans les issues publiques. Les fonctionnalités et les détails d'installation sont décrits sur [pize.ai](https://pize.ai/fr) et dans la [documentation officielle](https://pize.ai/docs).
 
 ## <img src="assets/section-icons/contact.svg" width="22" height="22" alt="" /> **Contacter Pize**
 
-Cliquez sur une adresse pour ouvrir votre application de messagerie avec un objet proposé. Ces adresses figurent sur la [page de contact officielle](https://pize.ai/contact).
+Cliquez sur une adresse pour ouvrir votre messagerie avec l'objet du message déjà renseigné. Ces adresses sont celles de la [page de contact officielle](https://pize.ai/contact).
 
-| Contact | Objet de la demande | Adresse électronique |
+| Contact | Pour | Adresse électronique |
 | --- | --- | --- |
-| **Renseignements généraux** | Questions produit, demandes de presse et informations sur les versions. | [hello@pize.ai](mailto:hello@pize.ai?subject=Pize%20general%20inquiry) |
+| **Renseignements généraux** | Questions produit, demandes de presse et informations sur les nouvelles versions. | [hello@pize.ai](mailto:hello@pize.ai?subject=Pize%20general%20inquiry) |
 | **Contact produit** | Démonstrations, questions de mise en place et collaborations. | [contact@pize.ai](mailto:contact@pize.ai?subject=Pize%20product%20inquiry) |
 | **Assistance technique** | Compte, documentation, confidentialité et demandes de suppression de données. | [support@pize.ai](mailto:support@pize.ai?subject=Pize%20support%20request) |
 | **Affaires et partenariats** | Achats, partenariats de recherche et demandes commerciales. | [business@pize.ai](mailto:business@pize.ai?subject=Pize%20business%20inquiry) |

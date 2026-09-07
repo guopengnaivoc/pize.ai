@@ -7,7 +7,7 @@
 <h1 align="center"><img src="assets/pize-wordmark.svg" width="160" height="47" alt="Pize.ai" /></h1>
 
 <p align="center"><strong>Asisten pemrograman AI untuk komputasi ilmiah dan analisis statistik.</strong></p>
-<p align="center">Pahami data. Bangun analisis. Tinjau hasil.</p>
+<p align="center">Pahami data. Susun analisis. Tinjau hasilnya.</p>
 
 <p align="center">
   <a href="https://pize.ai/id">Situs resmi</a> &middot;
@@ -134,88 +134,87 @@
   </tr>
 </table>
 
-Dinding logo ini menampilkan bahasa dan alat penelitian yang tercantum di situs Pize, meliputi analisis data, komputasi numerik, pembelajaran mesin, dan visualisasi. Pize menyediakan bantuan pemrograman AI untuk alur kerja tersebut; lihat [dokumentasi resmi](https://pize.ai/docs) untuk cakupan dukungan, dan perlu diingat bahwa logo tidak menyiratkan kemitraan atau dukungan resmi dari merek terkait.
+Pize dapat digunakan bersama berbagai bahasa dan alat penelitian untuk analisis data, komputasi numerik, pembelajaran mesin, dan visualisasi. Pize menyediakan bantuan pemrograman AI untuk alur kerja tersebut; cakupan dukungannya dijelaskan dalam [dokumentasi resmi](https://pize.ai/docs).
 
-## <img src="assets/section-icons/research.svg" width="22" height="22" alt="" /> **Dirancang untuk penelitian, bukan sekadar melengkapi kode**
+## <img src="assets/section-icons/research.svg" width="22" height="22" alt="" /> **Untuk riset: melengkapi, menulis, dan memeriksa bug pada kode**
 
-**Pize adalah asisten pemrograman AI bagi peneliti yang bekerja dengan kode ilmiah dan data statistik.** Pize membantu memahami proyek, menyiapkan analisis, menulis dan menjalankan kode, memeriksa keluaran serta grafik, lalu menyempurnakan langkah berikutnya. Gunakan melalui Pize Code, Positron, CLI, atau SDK.
+**Pize adalah asisten pemrograman AI yang dirancang untuk kode ilmiah dan data statistik.** Pize membantu menghubungkan langkah-langkah penelitian: memahami proyek, menyusun rencana analisis, menulis dan menjalankan kode, memeriksa keluaran serta grafik, lalu menentukan perbaikan berikutnya. Anda dapat menggunakannya di Pize Code, Positron, atau CLI, maupun mengintegrasikannya ke program sendiri melalui SDK.
 
-Kesalahan penelitian sering muncul sebelum pemodelan: pemisah kolom yang salah, nilai hilang yang dianggap angka, atau observasi yang dianggap sebagai header. Pize mengutamakan pemahaman data agar pemrograman berangkat dari struktur masukan, bukan asumsi tentang isi berkas.
+Kesalahan analisis sering bermula sebelum pemodelan: pemisah kolom salah dikenali, nilai yang hilang dianggap sebagai angka, atau baris observasi pertama dibaca sebagai header. Karena itu, Pize mengutamakan pemahaman data agar kode selanjutnya berpijak pada struktur masukan yang sebenarnya, bukan dugaan tentang isi berkas.
 
-Repositori ini adalah halaman publik produk dan komunitas Pize, dikelola oleh pendirinya, [@guopengnaivoc](https://github.com/guopengnaivoc).
+Repositori ini adalah halaman publik produk dan komunitas Pize, yang dikelola oleh pendirinya, [@guopengnaivoc](https://github.com/guopengnaivoc).
 
-## <img src="assets/section-icons/features.svg" width="22" height="22" alt="" /> **Kemampuan Pize**
+## <img src="assets/section-icons/features.svg" width="22" height="22" alt="" /> **Yang bisa dibantu oleh Pize**
 
 | Kemampuan | Manfaat dalam pekerjaan |
 | --- | --- |
-| **Pembacaan yang memahami data** | Mengenali pemisah, header, nilai hilang, dan tipe kolom dari isi berkas; menangani komentar, metadata, serta tabel terkompresi. |
-| **Konteks untuk data besar** | Menyediakan kartu data ringkas ketika berkas melampaui batas konteks, berisi skema, pratinjau kecil, dan jumlah baris yang ditandai sebagai perkiraan. |
-| **Sesi R / Python nyata** | Di Positron, memeriksa sesi yang sedang difokuskan dan merangkum dataframe. Menjalankan kode serta mengambil grafik setelah persetujuan, lalu memperbaiki analisis berdasarkan keluaran nyata. |
-| **Perubahan kode yang dapat ditinjau** | Mengkoordinasikan perubahan lintas berkas, memeriksa perbedaan, membatalkan perubahan, dan kembali ke titik pemeriksaan tugas sebelumnya. |
-| **Perencanaan dan eksekusi** | Menjelajahi proyek dalam mode perencanaan, menyepakati pendekatan, lalu menulis kode serta menjalankan perintah terminal dengan persetujuan. |
-| **Konteks proyek dan peramban** | Merujuk berkas, folder, masalah, dan URL; menggunakan interaksi peramban, tangkapan layar, serta log saat debugging. |
-| **Konvensi yang dapat digunakan kembali** | Menerapkan aturan proyek dan keterampilan untuk definisi statistik, konvensi grafik, serta struktur direktori. |
+| **Memahami berkas data** | Mengenali pemisah, header, nilai yang hilang, dan tipe kolom berdasarkan isinya, serta menangani komentar, metadata, dan tabel terkompresi. |
+| **Merangkum konteks dataset besar** | Jika berkas melampaui batas konteks, menyediakan kartu data ringkas berisi struktur, pratinjau kecil, dan jumlah baris yang jelas ditandai sebagai perkiraan, alih-alih memasukkan seluruh tabel ke percakapan. |
+| **Terhubung ke sesi R / Python yang nyata** | Di Positron, melihat sesi saat ini dan merangkum dataframe. Kode dijalankan dan grafik diambil setelah persetujuan, lalu pekerjaan dilanjutkan berdasarkan keluaran sebenarnya. |
+| **Meninjau perubahan kode** | Mengoordinasikan perubahan lintas berkas, memeriksa perbedaan, membatalkan perubahan, dan kembali ke titik pemeriksaan tugas sebelumnya. |
+| **Merencanakan sebelum menjalankan** | Memahami proyek dan membahas rencana analisis terlebih dahulu, lalu menulis kode serta menjalankan perintah terminal setelah disetujui. |
+| **Memakai konteks proyek dan peramban** | Merujuk berkas, folder, masalah, serta URL; memanfaatkan interaksi peramban, tangkapan layar, dan log untuk menelusuri masalah saat debugging. |
+| **Menggunakan kembali konvensi proyek** | Mengatur definisi statistik, konvensi pembuatan grafik, dan struktur direktori melalui aturan proyek serta keterampilan. |
 
-Untuk format penelitian seperti Parquet, Arrow, RDS, HDF5, h5ad, NumPy, SPSS, dan Stata, Pize mengenali format dan membantu membuat kode pemuatan yang sesuai. Ini berbeda dari mendekode semua format biner langsung ke dalam percakapan. Perilaku dan batasannya dijelaskan dalam [dokumentasi pembacaan data dan runtime](https://pize.ai/docs).
+Untuk format data penelitian seperti Parquet, Arrow, RDS, HDF5, h5ad, NumPy, SPSS, dan Stata, Pize dapat mengenali format serta membantu membuat kode pemuatan yang sesuai. Ini bukan berarti semua format biner diterjemahkan langsung menjadi isi percakapan. Perilaku dan batasannya dijelaskan dalam [dokumentasi pembacaan data dan runtime](https://pize.ai/docs).
 
-## <img src="assets/section-icons/interfaces.svg" width="22" height="22" alt="" /> **Bekerja di lingkungan yang sudah Anda gunakan**
+## <img src="assets/section-icons/interfaces.svg" width="22" height="22" alt="" /> **Tetap bekerja di lingkungan yang Anda kenal**
 
-| Antarmuka | Penggunaan |
+| Pilihan | Kegunaan |
 | --- | --- |
-| **Pize Code** | Bantuan di editor, konteks proyek, peninjauan perubahan, dan alur kerja terminal. |
-| **Positron** | Agen yang sama dengan akses ke sesi R atau Python yang sudah difokuskan. |
+| **Pize Code** | Memahami proyek, meninjau perubahan kode, dan bekerja dengan terminal dari dalam editor. |
+| **Positron** | Menggunakan asisten yang sama dengan koneksi ke sesi R atau Python yang sedang difokuskan. |
 | **CLI** | Menggunakan Pize melalui baris perintah. |
-| **SDK** | Menanamkan agen beserta kemampuan berorientasi datanya ke program sendiri dan alat internal. |
+| **SDK** | Mengintegrasikan asisten pemrograman beserta kemampuan pengolahan konteks datanya ke program sendiri atau alat internal. |
 
-Penghubung ke sesi yang sedang berjalan merupakan fitur khusus Positron. Tidak semua antarmuka memiliki akses runtime yang sama. Petunjuk pemasangan dan rinciannya tersedia dalam [dokumentasi resmi](https://pize.ai/docs).
+Penghubung ke sesi yang sedang berjalan merupakan kemampuan khusus Positron. Fitur ini tidak berarti semua antarmuka menyediakan akses runtime yang sama. Petunjuk pemasangan dan rincian tiap pilihan tersedia dalam [dokumentasi resmi](https://pize.ai/docs).
 
-## <img src="assets/section-icons/models.svg" width="22" height="22" alt="" /> **Model dan alat yang terhubung**
+## <img src="assets/section-icons/models.svg" width="22" height="22" alt="" /> **Pilihan model dan koneksi ke alat lain**
 
-Pize mendukung koneksi ke model cloud dan lokal, termasuk Anthropic, OpenAI, Google Gemini, DeepSeek, AWS Bedrock, OpenRouter, serta endpoint yang kompatibel dengan OpenAI. Pilih penyedia dan konfigurasi yang sesuai dengan lingkungan penelitian Anda.
+Pize mendukung koneksi ke model cloud dan lokal, termasuk Anthropic, OpenAI, Google Gemini, DeepSeek, AWS Bedrock, OpenRouter, serta layanan dengan API yang kompatibel dengan OpenAI. Pilih model dan konfigurasi sesuai kebutuhan penelitian dan lingkungan penerapan Anda.
 
-**SDK menanamkan Pize ke dalam program; MCP menghubungkan Pize ke alat eksternal.** Sebagai klien MCP, Pize dapat terhubung ke server kompatibel untuk basis data, sistem internal, dan alat laboratorium. Operasi yang tersedia bergantung pada server serta izin yang Anda berikan.
+**SDK mengintegrasikan Pize ke program Anda; MCP menghubungkannya ke alat eksternal.** Sebagai klien MCP, Pize dapat terhubung ke basis data, sistem internal, dan alat laboratorium melalui server yang kompatibel. Operasi yang tersedia bergantung pada server dan izin yang Anda berikan.
 
-## <img src="assets/section-icons/start.svg" width="22" height="22" alt="" /> **Mulai menggunakan**
+## <img src="assets/section-icons/start.svg" width="22" height="22" alt="" /> **Mulai menggunakan Pize**
 
-1. **Pilih antarmuka.** Mulai dari [halaman unduhan resmi](https://pize.ai/download) dan ikuti petunjuk untuk lingkungan Anda.
-2. **Konfigurasikan model.** Hubungkan penyedia yang didukung atau endpoint lokal sesuai dokumentasi.
-3. **Berikan konteks penelitian.** Buka proyek dan lampirkan skrip atau data yang relevan. Di Positron, fokuskan sesi yang berisi data untuk dianalisis.
-4. **Rencanakan, setujui, dan perbaiki.** Sepakati pendekatan, tinjau tindakan yang diusulkan, lalu periksa kode, keluaran, dan grafik sebelum melanjutkan.
+1. **Pilih lingkungan kerja.** Mulai dari [halaman unduhan resmi](https://pize.ai/download) dan ikuti petunjuk pemasangan yang sesuai.
+2. **Atur model.** Ikuti dokumentasi untuk menghubungkan layanan model yang didukung atau endpoint lokal.
+3. **Berikan konteks penelitian.** Buka proyek, lalu lampirkan skrip atau data yang relevan. Di Positron, fokuskan sesi yang sudah memuat data yang ingin dianalisis.
+4. **Rencanakan, setujui, lalu perbaiki.** Tentukan pendekatan analisis dan tinjau tindakan yang diusulkan. Setelah dijalankan, periksa kode, keluaran, serta grafik sebelum memutuskan langkah berikutnya.
 
-### <img src="assets/section-icons/examples.svg" width="20" height="20" alt="" /> **Contoh permintaan penelitian**
+### <img src="assets/section-icons/examples.svg" width="20" height="20" alt="" /> **Permintaan yang bisa Anda coba**
 
-Contoh berikut adalah titik awal, bukan hasil analisis yang telah divalidasi secara independen.
+Berikut adalah contoh permintaan untuk menggunakan Pize, bukan hasil analisis yang telah divalidasi secara independen.
 
-- “Periksa kolom, tipe, dan nilai hilang pada dataset ini sebelum mengusulkan analisis.”
-- “Jelaskan pipeline R atau Python ini dan sebutkan asumsi yang perlu saya tinjau.”
-- “Bantu revisi skrip analisis ini, jalankan setelah persetujuan, dan jelaskan grafik diagnostiknya.”
+- “Periksa dulu kolom, tipe data, dan nilai yang hilang pada dataset ini sebelum mengusulkan analisis.”
+- “Jelaskan alur analisis R atau Python ini dan sebutkan asumsi yang perlu saya tinjau.”
+- “Bantu saya mengubah skrip analisis ini, jalankan setelah saya setujui, lalu jelaskan hasilnya menggunakan grafik diagnostik.”
 
+Pize membantu proses kerja, tetapi tidak menggantikan pertimbangan ilmiah. Tinjau asumsi metode dan keluarannya sebelum mengandalkan hasil analisis. Penanganan data bergantung pada alat dan layanan model yang Anda atur; baca [informasi privasi](https://pize.ai/privacy) produk serta kebijakan penyedia model.
 
-Pize membantu alur kerja, bukan menggantikan pertimbangan ilmiah. Tinjau asumsi metode dan keluaran sebelum mengandalkan hasil. Penanganan data bergantung pada alat dan layanan model yang dikonfigurasi; baca [informasi privasi](https://pize.ai/privacy) serta kebijakan penyedia Anda.
+## <img src="assets/section-icons/repository.svg" width="22" height="22" alt="" /> **Yang tersedia untuk publik di repositori ini**
 
-## <img src="assets/section-icons/repository.svg" width="22" height="22" alt="" /> **Yang dipublikasikan di sini**
+Repositori ini menyediakan informasi produk, panduan komunitas, dan [halaman penampil protein interaktif](https://guopengnaivoc.github.io/pize.ai/) yang berdiri sendiri. Halaman tersebut merupakan demonstrasi visual, bukan layanan prediksi protein atau penyajian hasil penelitian yang telah divalidasi. Sumber datanya tercantum dalam [kredit aset protein](assets/protein-CREDITS.md).
 
-Repositori ini memuat informasi produk, panduan komunitas, dan [penampil protein interaktif](https://guopengnaivoc.github.io/pize.ai/) yang berdiri sendiri. Penampil tersebut adalah demonstrasi visual, bukan layanan prediksi protein atau bukti hasil ilmiah yang tervalidasi. Sumber datanya tercantum dalam [kredit protein](assets/protein-CREDITS.md).
-
-**Kode sumber aplikasi inti Pize tidak dipublikasikan di repositori ini.** Penampil yang terbuka tidak berarti seluruh produk bersifat sumber terbuka. Alat, contoh, dan catatan teknis tertentu dapat diterbitkan terpisah di kemudian hari, dengan cakupan serta lisensi masing-masing. Gunakan situs resmi untuk mengunduh perangkat lunak dan melihat ketersediaan terbaru.
+**Kode sumber aplikasi inti Pize tidak dipublikasikan di repositori ini.** Penampil yang tersedia untuk publik tidak berarti seluruh produk bersifat sumber terbuka. Sebagian alat, contoh, dan catatan teknis dapat diterbitkan terpisah di kemudian hari dengan cakupan serta lisensi masing-masing. Rujuk situs resmi untuk cara memperoleh perangkat lunak dan ketersediaannya saat ini.
 
 ## <img src="assets/section-icons/community.svg" width="22" height="22" alt="" /> **Pendiri, masukan, dan kolaborasi**
 
-Pize didirikan dan dikelola oleh [@guopengnaivoc](https://github.com/guopengnaivoc) dengan nama **pize.ai**. Situs web menjadi pintu masuk produk; repositori ini menyatukan informasi publik proyek dan masukan komunitas.
+Pize didirikan dan dikelola oleh [@guopengnaivoc](https://github.com/guopengnaivoc) dengan merek **pize.ai**. Situs resmi menjadi pintu masuk produk; repositori ini memperkenalkan proyek kepada publik, mengelola materi komunitas, dan menerima masukan.
 
 - **Pertanyaan produk dan usulan fitur:** buat [GitHub Issue](https://github.com/guopengnaivoc/pize.ai/issues).
-- **Laporan bug yang berguna:** jelaskan lingkungan, tugas, perilaku yang diharapkan dan yang terjadi, serta contoh minimal. Lihat [panduan kontribusi](CONTRIBUTING.md).
-- **Kolaborasi, penggunaan laboratorium, atau pertanyaan pribadi:** pilih alamat email yang sesuai di bawah.
+- **Laporan masalah:** jelaskan lingkungan, tugas, perilaku yang diharapkan, serta yang terjadi, dan sertakan contoh minimal bila memungkinkan. Lihat [panduan kontribusi](CONTRIBUTING.md).
+- **Kolaborasi, penggunaan di laboratorium, atau pertanyaan pribadi:** hubungi alamat email yang sesuai di bawah.
 
-Jangan memublikasikan kunci API, kredensial, dataset pribadi, atau penelitian rahasia dalam Issue publik. Kemampuan terkini dan petunjuk pengaturan tersedia di [pize.ai](https://pize.ai/id) serta [dokumentasinya](https://pize.ai/docs).
+Jangan mengunggah kunci API, kredensial akun, dataset pribadi, atau materi penelitian yang belum dipublikasikan ke Issue publik. Kemampuan produk dan rincian pemasangan tersedia di [pize.ai](https://pize.ai/id) serta [dokumentasi resmi](https://pize.ai/docs).
 
 ## <img src="assets/section-icons/contact.svg" width="22" height="22" alt="" /> **Hubungi Pize**
 
-Klik alamat untuk membuka aplikasi email dengan subjek yang disarankan. Alamat ini tercantum di [halaman kontak resmi](https://pize.ai/contact).
+Klik alamat email untuk membuka aplikasi email dengan subjek yang sudah terisi. Alamat berikut tercantum pada [halaman kontak resmi](https://pize.ai/contact).
 
 | Kontak | Keperluan | Email |
 | --- | --- | --- |
-| **Pertanyaan umum** | Pertanyaan produk, permintaan media, dan informasi rilis. | [hello@pize.ai](mailto:hello@pize.ai?subject=Pize%20general%20inquiry) |
+| **Pertanyaan umum** | Pertanyaan produk, pertanyaan dari media, dan informasi rilis. | [hello@pize.ai](mailto:hello@pize.ai?subject=Pize%20general%20inquiry) |
 | **Kontak produk** | Demo produk, pertanyaan penerapan, dan kolaborasi. | [contact@pize.ai](mailto:contact@pize.ai?subject=Pize%20product%20inquiry) |
 | **Dukungan teknis** | Akun, dokumentasi, privasi, dan permintaan penghapusan data. | [support@pize.ai](mailto:support@pize.ai?subject=Pize%20support%20request) |
 | **Bisnis dan kemitraan** | Pembelian, kemitraan penelitian, dan pertanyaan komersial. | [business@pize.ai](mailto:business@pize.ai?subject=Pize%20business%20inquiry) |
