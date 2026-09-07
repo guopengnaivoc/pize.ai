@@ -10,9 +10,7 @@
 <p align="center">डेटा समझें। विश्लेषण तैयार करें। नतीजों की समीक्षा करें।</p>
 
 <p align="center">
-  <a href="https://pize.ai/hi">आधिकारिक वेबसाइट</a> &middot;
-  <a href="https://pize.ai/docs">दस्तावेज़</a> &middot;
-  <a href="https://pize.ai/download">डाउनलोड</a>
+  <a href="https://pize.ai/hi">होम</a> &middot; <a href="https://pize.ai/hi/product">उत्पाद</a> &middot; <a href="https://pize.ai/hi/applications">वैज्ञानिक अनुप्रयोग</a> &middot; <a href="https://pize.ai/hi/docs">दस्तावेज़</a> &middot; <a href="https://pize.ai/hi/blog">ब्लॉग</a> &middot; <a href="https://pize.ai/hi/download">डाउनलोड</a> &middot; <a href="https://pize.ai/hi/pricing">कीमत</a> &middot; <a href="https://pize.ai/hi/model-scores">मॉडल</a>
 </p>
 
 <p align="center" dir="ltr">

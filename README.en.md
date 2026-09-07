@@ -10,9 +10,7 @@
 <p align="center">Understand the data. Build the analysis. Review the results.</p>
 
 <p align="center">
-  <a href="https://pize.ai">Website</a> &middot;
-  <a href="https://pize.ai/docs">Documentation</a> &middot;
-  <a href="https://pize.ai/download">Download</a>
+  <a href="https://pize.ai/">Home</a> &middot; <a href="https://pize.ai/product">Product</a> &middot; <a href="https://pize.ai/applications">Applications</a> &middot; <a href="https://pize.ai/docs">Docs</a> &middot; <a href="https://pize.ai/blog">Blog</a> &middot; <a href="https://pize.ai/download">Download</a> &middot; <a href="https://pize.ai/pricing">Pricing</a> &middot; <a href="https://pize.ai/model-scores">Models</a>
 </p>
 
 <p align="center" dir="ltr">

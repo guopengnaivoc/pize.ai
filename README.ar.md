@@ -9,10 +9,8 @@
 <p align="center" dir="rtl"><strong>مساعد برمجة بالذكاء الاصطناعي للحوسبة العلمية والتحليل الإحصائي.</strong></p>
 <p align="center" dir="rtl">افهم البيانات. ابنِ التحليل. راجع النتائج.</p>
 
-<p align="center">
-  <a href="https://pize.ai/ar">الموقع الرسمي</a> &middot;
-  <a href="https://pize.ai/docs">الوثائق</a> &middot;
-  <a href="https://pize.ai/download">التنزيل</a>
+<p align="center" dir="rtl">
+  <a href="https://pize.ai/ar">الرئيسية</a> &middot; <a href="https://pize.ai/ar/product">المنتج</a> &middot; <a href="https://pize.ai/ar/applications">التطبيقات</a> &middot; <a href="https://pize.ai/ar/docs">المستندات</a> &middot; <a href="https://pize.ai/ar/blog">المدونة</a> &middot; <a href="https://pize.ai/ar/download">تنزيل</a> &middot; <a href="https://pize.ai/ar/pricing">الأسعار</a> &middot; <a href="https://pize.ai/ar/model-scores">النماذج</a>
 </p>
 
 <p align="center" dir="ltr">

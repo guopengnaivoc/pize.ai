@@ -10,9 +10,7 @@
 <p align="center">Разбирайтесь в данных. Выстраивайте анализ. Проверяйте результаты.</p>
 
 <p align="center">
-  <a href="https://pize.ai/ru">Официальный сайт</a> &middot;
-  <a href="https://pize.ai/docs">Документация</a> &middot;
-  <a href="https://pize.ai/download">Скачать</a>
+  <a href="https://pize.ai/ru">Главная</a> &middot; <a href="https://pize.ai/ru/product">Продукт</a> &middot; <a href="https://pize.ai/ru/applications">Области применения</a> &middot; <a href="https://pize.ai/ru/docs">Документация</a> &middot; <a href="https://pize.ai/ru/blog">Блог</a> &middot; <a href="https://pize.ai/ru/download">Скачать</a> &middot; <a href="https://pize.ai/ru/pricing">Цены</a> &middot; <a href="https://pize.ai/ru/model-scores">Модели</a>
 </p>
 
 <p align="center" dir="ltr">

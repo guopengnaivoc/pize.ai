@@ -10,9 +10,7 @@
 <p align="center">Pahami data. Susun analisis. Tinjau hasilnya.</p>
 
 <p align="center">
-  <a href="https://pize.ai/id">Situs resmi</a> &middot;
-  <a href="https://pize.ai/docs">Dokumentasi</a> &middot;
-  <a href="https://pize.ai/download">Unduh</a>
+  <a href="https://pize.ai/id">Beranda</a> &middot; <a href="https://pize.ai/id/product">Produk</a> &middot; <a href="https://pize.ai/id/applications">Aplikasi</a> &middot; <a href="https://pize.ai/id/docs">Dokumentasi</a> &middot; <a href="https://pize.ai/id/blog">Blog</a> &middot; <a href="https://pize.ai/id/download">Unduh</a> &middot; <a href="https://pize.ai/id/pricing">Harga</a> &middot; <a href="https://pize.ai/id/model-scores">Model</a>
 </p>
 
 <p align="center" dir="ltr">

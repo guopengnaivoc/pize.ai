@@ -10,9 +10,7 @@
 <p align="center">データを理解し、分析を組み立て、結果を確かめる。</p>
 
 <p align="center">
-  <a href="https://pize.ai/ja">公式サイト</a> &middot;
-  <a href="https://pize.ai/docs">ドキュメント</a> &middot;
-  <a href="https://pize.ai/download">ダウンロード</a>
+  <a href="https://pize.ai/ja">ホーム</a> &middot; <a href="https://pize.ai/ja/product">製品</a> &middot; <a href="https://pize.ai/ja/applications">応用</a> &middot; <a href="https://pize.ai/ja/docs">ドキュメント</a> &middot; <a href="https://pize.ai/ja/blog">ブログ</a> &middot; <a href="https://pize.ai/ja/download">ダウンロード</a> &middot; <a href="https://pize.ai/ja/pricing">料金</a> &middot; <a href="https://pize.ai/ja/model-scores">モデル</a>
 </p>
 
 <p align="center" dir="ltr">

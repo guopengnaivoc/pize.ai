@@ -10,9 +10,7 @@
 <p align="center">理解数据，构建分析，审阅结果。</p>
 
 <p align="center">
-  <a href="https://pize.ai">官方网站</a> &middot;
-  <a href="https://pize.ai/docs">产品文档</a> &middot;
-  <a href="https://pize.ai/download">下载使用</a>
+  <a href="https://pize.ai/zh-Hans">首页</a> &middot; <a href="https://pize.ai/zh-Hans/product">产品</a> &middot; <a href="https://pize.ai/zh-Hans/applications">科学应用</a> &middot; <a href="https://pize.ai/zh-Hans/docs">文档</a> &middot; <a href="https://pize.ai/zh-Hans/blog">博客</a> &middot; <a href="https://pize.ai/zh-Hans/download">下载</a> &middot; <a href="https://pize.ai/zh-Hans/pricing">定价</a> &middot; <a href="https://pize.ai/zh-Hans/model-scores">模型评分</a>
 </p>
 
 <p align="center" dir="ltr">

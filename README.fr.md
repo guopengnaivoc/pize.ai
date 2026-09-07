@@ -10,9 +10,7 @@
 <p align="center">Comprendre les données. Construire l'analyse. Examiner les résultats.</p>
 
 <p align="center">
-  <a href="https://pize.ai/fr">Site officiel</a> &middot;
-  <a href="https://pize.ai/docs">Documentation</a> &middot;
-  <a href="https://pize.ai/download">Téléchargement</a>
+  <a href="https://pize.ai/fr">Accueil</a> &middot; <a href="https://pize.ai/fr/product">Produit</a> &middot; <a href="https://pize.ai/fr/applications">Applications</a> &middot; <a href="https://pize.ai/fr/docs">Documentation</a> &middot; <a href="https://pize.ai/fr/blog">Blog</a> &middot; <a href="https://pize.ai/fr/download">Télécharger</a> &middot; <a href="https://pize.ai/fr/pricing">Tarifs</a> &middot; <a href="https://pize.ai/fr/model-scores">Modèles</a>
 </p>
 
 <p align="center" dir="ltr">
