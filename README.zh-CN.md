@@ -83,6 +83,17 @@ Pize 由 [@guopengnaivoc](https://github.com/guopengnaivoc) 创立和维护，�
 
 - **产品问题与功能建议：** 提交 [GitHub Issue](https://github.com/guopengnaivoc/pize.ai/issues)。
 - **报告问题：** 说明使用环境、具体任务、预期行为、实际行为，并尽量提供最小示例，详见[参与指南](CONTRIBUTING.md)。
-- **合作、实验室使用或私密咨询：** 通过[官网联系页](https://pize.ai/contact)沟通。
+- **合作、实验室使用或私密咨询：** 通过下方对应的邮箱联系。
 
 请勿在公开 Issue 中上传 API 密钥、账号凭据、私有数据集或未公开研究资料。产品功能与安装细节以 [pize.ai](https://pize.ai) 和[官方文档](https://pize.ai/docs)为准。
+
+## 联系 Pize
+
+点击邮箱即可打开邮件应用，并预填对应的邮件主题。以下地址来自[官网联系页](https://pize.ai/contact)。
+
+| 联系类别 | 适用事项 | 邮箱 |
+| --- | --- | --- |
+| **一般咨询** | 产品问题、媒体咨询与版本更新信息。 | [hello@pize.ai](mailto:hello@pize.ai?subject=Pize%20general%20inquiry) |
+| **产品联系** | 产品演示、实施问题与合作沟通。 | [contact@pize.ai](mailto:contact@pize.ai?subject=Pize%20product%20inquiry) |
+| **技术支持** | 账号、文档、隐私与数据删除请求。 | [support@pize.ai](mailto:support@pize.ai?subject=Pize%20support%20request) |
+| **商务合作** | 采购、科研合作与商业咨询。 | [business@pize.ai](mailto:business@pize.ai?subject=Pize%20business%20inquiry) |

@@ -83,6 +83,17 @@ Pize is founded and maintained by [@guopengnaivoc](https://github.com/guopengnai
 
 - **Product questions and feature requests:** open a [GitHub issue](https://github.com/guopengnaivoc/pize.ai/issues).
 - **Useful bug reports:** describe your environment, the task, expected behavior, actual behavior, and a minimal example. See [contribution guidance](CONTRIBUTING.md).
-- **Collaboration, lab use, or private inquiries:** use the [official contact page](https://pize.ai/contact).
+- **Collaboration, lab use, or private inquiries:** choose the appropriate email address below.
 
 Do not post API keys, credentials, private datasets, or confidential research in public issues. For current product capabilities and setup details, refer to [pize.ai](https://pize.ai) and its [documentation](https://pize.ai/docs).
+
+## Contact Pize
+
+Click an address to open your email app with a suggested subject. These addresses are published on the [official contact page](https://pize.ai/contact).
+
+| Contact | For | Email |
+| --- | --- | --- |
+| **General inquiries** | Product questions, media requests, and release updates. | [hello@pize.ai](mailto:hello@pize.ai?subject=Pize%20general%20inquiry) |
+| **Product contact** | Product demos, implementation questions, and collaborations. | [contact@pize.ai](mailto:contact@pize.ai?subject=Pize%20product%20inquiry) |
+| **Technical support** | Account, documentation, privacy, and data deletion requests. | [support@pize.ai](mailto:support@pize.ai?subject=Pize%20support%20request) |
+| **Business and partnerships** | Purchasing, research partnerships, and commercial inquiries. | [business@pize.ai](mailto:business@pize.ai?subject=Pize%20business%20inquiry) |
