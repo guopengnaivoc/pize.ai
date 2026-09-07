@@ -25,111 +25,198 @@
 
 <table width="100%" align="center" dir="ltr">
   <tr>
-    <td width="12.5%" align="center" valign="middle">
-      <img src="assets/scientific-logos/r.svg" width="31" height="24" alt="R" />
-      <br /><sub>R</sub>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://www.r-project.org/">
+        <img src="assets/scientific-logos/r.svg" width="31" height="24" alt="R" />
+      </a>
+      <br /><sub><a href="https://www.r-project.org/">R</a></sub>
     </td>
-    <td width="12.5%" align="center" valign="middle">
-      <img src="assets/scientific-logos/python.svg" width="20" height="24" alt="Python" />
-      <br /><sub>Python</sub>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://www.python.org/">
+        <img src="assets/scientific-logos/python.svg" width="20" height="24" alt="Python" />
+      </a>
+      <br /><sub><a href="https://www.python.org/">Python</a></sub>
     </td>
-    <td width="12.5%" align="center" valign="middle">
-      <img src="assets/scientific-logos/jupyter.svg" width="19" height="24" alt="Jupyter" />
-      <br /><sub>Jupyter</sub>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://jupyter.org/">
+        <img src="assets/scientific-logos/jupyter.svg" width="19" height="24" alt="Jupyter" />
+      </a>
+      <br /><sub><a href="https://jupyter.org/">Jupyter</a></sub>
     </td>
-    <td width="12.5%" align="center" valign="middle">
-      <img src="assets/scientific-logos/julia.svg" width="24" height="24" alt="Julia" />
-      <br /><sub>Julia</sub>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://julialang.org/">
+        <img src="assets/scientific-logos/julia.svg" width="24" height="24" alt="Julia" />
+      </a>
+      <br /><sub><a href="https://julialang.org/">Julia</a></sub>
     </td>
-    <td width="12.5%" align="center" valign="middle">
-      <img src="assets/scientific-logos/rstudio.svg" width="24" height="24" alt="RStudio" />
-      <br /><sub>RStudio</sub>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://posit.co/products/open-source/rstudio">
+        <img src="assets/scientific-logos/rstudio.svg" width="24" height="24" alt="RStudio" />
+      </a>
+      <br /><sub><a href="https://posit.co/products/open-source/rstudio">RStudio</a></sub>
     </td>
-    <td width="12.5%" align="center" valign="middle">
-      <img src="assets/scientific-logos/spss.png" width="25" height="24" alt="SPSS" />
-      <br /><sub>SPSS</sub>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://www.ibm.com/products/spss-statistics">
+        <img src="assets/scientific-logos/spss.png" width="25" height="24" alt="SPSS" />
+      </a>
+      <br /><sub><a href="https://www.ibm.com/products/spss-statistics">SPSS</a></sub>
     </td>
-    <td width="12.5%" align="center" valign="middle">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/scientific-logos/stata-dark.svg" width="48" height="14" />
-        <img src="assets/scientific-logos/stata-light.svg" width="24" height="24" alt="Stata" />
-      </picture>
-      <br /><sub>Stata</sub>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://www.stata.com/">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/scientific-logos/stata-dark.svg" width="48" height="14" />
+          <img src="assets/scientific-logos/stata-light.svg" width="24" height="24" alt="Stata" />
+        </picture>
+      </a>
+      <br /><sub><a href="https://www.stata.com/">Stata</a></sub>
     </td>
-    <td width="12.5%" align="center" valign="middle">
-      <img src="assets/scientific-logos/sas.png" width="48" height="24" alt="SAS" />
-      <br /><sub>SAS</sub>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://www.sas.com/en_us/home.html">
+        <img src="assets/scientific-logos/sas.png" width="48" height="24" alt="SAS" />
+      </a>
+      <br /><sub><a href="https://www.sas.com/en_us/home.html">SAS</a></sub>
     </td>
-  </tr>
-  <tr>
-    <td width="12.5%" align="center" valign="middle">
-      <img src="assets/scientific-logos/cplusplus.svg" width="21" height="24" alt="C++" />
-      <br /><sub>C++</sub>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://isocpp.org/">
+        <img src="assets/scientific-logos/cplusplus.svg" width="21" height="24" alt="C++" />
+      </a>
+      <br /><sub><a href="https://isocpp.org/">C++</a></sub>
     </td>
-    <td width="12.5%" align="center" valign="middle">
-      <img src="assets/scientific-logos/quarto.svg" width="24" height="24" alt="Quarto" />
-      <br /><sub>Quarto</sub>
-    </td>
-    <td width="12.5%" align="center" valign="middle">
-      <img src="assets/scientific-logos/numpy.svg" width="24" height="24" alt="NumPy" />
-      <br /><sub>NumPy</sub>
-    </td>
-    <td width="12.5%" align="center" valign="middle">
-      <img src="assets/scientific-logos/pandas.svg" width="18" height="24" alt="pandas" />
-      <br /><sub>pandas</sub>
-    </td>
-    <td width="12.5%" align="center" valign="middle">
-      <img src="assets/scientific-logos/scipy.svg" width="24" height="24" alt="SciPy" />
-      <br /><sub>SciPy</sub>
-    </td>
-    <td width="12.5%" align="center" valign="middle">
-      <img src="assets/scientific-logos/scikitlearn.png" width="44" height="24" alt="scikit-learn" />
-      <br /><sub>scikit-learn</sub>
-    </td>
-    <td width="12.5%" align="center" valign="middle">
-      <img src="assets/scientific-logos/pytorch.svg" width="24" height="24" alt="PyTorch" />
-      <br /><sub>PyTorch</sub>
-    </td>
-    <td width="12.5%" align="center" valign="middle">
-      <img src="assets/scientific-logos/tensorflow.svg" width="24" height="24" alt="TensorFlow" />
-      <br /><sub>TensorFlow</sub>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://quarto.org/">
+        <img src="assets/scientific-logos/quarto.svg" width="24" height="24" alt="Quarto" />
+      </a>
+      <br /><sub><a href="https://quarto.org/">Quarto</a></sub>
     </td>
   </tr>
   <tr>
-    <td width="12.5%" align="center" valign="middle">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/scientific-logos/plotly-dark.svg" width="48" height="16" />
-        <img src="assets/scientific-logos/plotly-light.svg" width="24" height="24" alt="Plotly" />
-      </picture>
-      <br /><sub>Plotly</sub>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://numpy.org/">
+        <img src="assets/scientific-logos/numpy.svg" width="24" height="24" alt="NumPy" />
+      </a>
+      <br /><sub><a href="https://numpy.org/">NumPy</a></sub>
     </td>
-    <td width="12.5%" align="center" valign="middle">
-      <img src="assets/scientific-logos/imagej.gif" width="48" height="10" alt="ImageJ" />
-      <br /><sub>ImageJ</sub>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://pandas.pydata.org/">
+        <img src="assets/scientific-logos/pandas.svg" width="18" height="24" alt="pandas" />
+      </a>
+      <br /><sub><a href="https://pandas.pydata.org/">pandas</a></sub>
     </td>
-    <td width="12.5%" align="center" valign="middle">
-      <img src="assets/scientific-logos/graphpad-prism.svg" width="48" height="9" alt="GraphPad Prism" />
-      <br /><sub>GraphPad Prism</sub>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://scipy.org/">
+        <img src="assets/scientific-logos/scipy.svg" width="24" height="24" alt="SciPy" />
+      </a>
+      <br /><sub><a href="https://scipy.org/">SciPy</a></sub>
     </td>
-    <td width="12.5%" align="center" valign="middle">
-      <img src="assets/scientific-logos/ncss.png" width="48" height="10" alt="NCSS" />
-      <br /><sub>NCSS</sub>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://scikit-learn.org/stable/">
+        <img src="assets/scientific-logos/scikitlearn.png" width="44" height="24" alt="scikit-learn" />
+      </a>
+      <br /><sub><a href="https://scikit-learn.org/stable/">scikit-learn</a></sub>
     </td>
-    <td width="12.5%" align="center" valign="middle">
-      <img src="assets/scientific-logos/cytoscape.svg" width="24" height="24" alt="Cytoscape" />
-      <br /><sub>Cytoscape</sub>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://pytorch.org/">
+        <img src="assets/scientific-logos/pytorch.svg" width="24" height="24" alt="PyTorch" />
+      </a>
+      <br /><sub><a href="https://pytorch.org/">PyTorch</a></sub>
     </td>
-    <td width="12.5%" align="center" valign="middle">
-      <img src="assets/scientific-logos/octave.svg" width="24" height="24" alt="GNU Octave" />
-      <br /><sub>GNU Octave</sub>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://www.tensorflow.org/">
+        <img src="assets/scientific-logos/tensorflow.svg" width="24" height="24" alt="TensorFlow" />
+      </a>
+      <br /><sub><a href="https://www.tensorflow.org/">TensorFlow</a></sub>
     </td>
-    <td width="12.5%" align="center" valign="middle">
-      <img src="assets/scientific-logos/graphviz.png" width="24" height="24" alt="Graphviz" />
-      <br /><sub>Graphviz</sub>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://plotly.com/">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/scientific-logos/plotly-dark.svg" width="48" height="16" />
+          <img src="assets/scientific-logos/plotly-light.svg" width="24" height="24" alt="Plotly" />
+        </picture>
+      </a>
+      <br /><sub><a href="https://plotly.com/">Plotly</a></sub>
     </td>
-    <td width="12.5%" align="center" valign="middle">
-      <img src="assets/scientific-logos/fiji.png" width="24" height="24" alt="Fiji" />
-      <br /><sub>Fiji</sub>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://imagej.net/">
+        <img src="assets/scientific-logos/imagej.gif" width="48" height="10" alt="ImageJ" />
+      </a>
+      <br /><sub><a href="https://imagej.net/">ImageJ</a></sub>
+    </td>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://www.graphpad.com/features">
+        <img src="assets/scientific-logos/graphpad-prism.svg" width="48" height="9" alt="GraphPad Prism" />
+      </a>
+      <br /><sub><a href="https://www.graphpad.com/features">GraphPad Prism</a></sub>
+    </td>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://www.ncss.com/">
+        <img src="assets/scientific-logos/ncss.png" width="48" height="10" alt="NCSS" />
+      </a>
+      <br /><sub><a href="https://www.ncss.com/">NCSS</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://cytoscape.org/">
+        <img src="assets/scientific-logos/cytoscape.svg" width="24" height="24" alt="Cytoscape" />
+      </a>
+      <br /><sub><a href="https://cytoscape.org/">Cytoscape</a></sub>
+    </td>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://octave.org/">
+        <img src="assets/scientific-logos/octave.svg" width="24" height="24" alt="GNU Octave" />
+      </a>
+      <br /><sub><a href="https://octave.org/">GNU Octave</a></sub>
+    </td>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://graphviz.org/">
+        <img src="assets/scientific-logos/graphviz.png" width="24" height="24" alt="Graphviz" />
+      </a>
+      <br /><sub><a href="https://graphviz.org/">Graphviz</a></sub>
+    </td>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://imagej.net/software/fiji/">
+        <img src="assets/scientific-logos/fiji.png" width="24" height="24" alt="Fiji" />
+      </a>
+      <br /><sub><a href="https://imagej.net/software/fiji/">Fiji</a></sub>
+    </td>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://www.mathworks.com/products/matlab.html">
+        <img src="assets/scientific-logos/matlab.svg" width="24" height="24" alt="MATLAB" />
+      </a>
+      <br /><sub><a href="https://www.mathworks.com/products/matlab.html">MATLAB</a></sub>
+    </td>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://matplotlib.org/">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/scientific-logos/matplotlib-dark.svg" width="48" height="11" />
+          <img src="assets/scientific-logos/matplotlib-light.svg" width="48" height="11" alt="Matplotlib" />
+        </picture>
+      </a>
+      <br /><sub><a href="https://matplotlib.org/">Matplotlib</a></sub>
+    </td>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://ggplot2.tidyverse.org/">
+        <img src="assets/scientific-logos/ggplot2.png" width="21" height="24" alt="ggplot2" />
+      </a>
+      <br /><sub><a href="https://ggplot2.tidyverse.org/">ggplot2</a></sub>
+    </td>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://seaborn.pydata.org/">
+        <img src="assets/scientific-logos/seaborn.svg" width="48" height="14" alt="Seaborn" />
+      </a>
+      <br /><sub><a href="https://seaborn.pydata.org/">Seaborn</a></sub>
+    </td>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://www.paraview.org/">
+        <img src="assets/scientific-logos/paraview.png" width="24" height="24" alt="ParaView" />
+      </a>
+      <br /><sub><a href="https://www.paraview.org/">ParaView</a></sub>
+    </td>
+    <td width="10%" align="center" valign="middle">
+      <a href="https://www.blender.org/">
+        <img src="assets/scientific-logos/blender.svg" width="24" height="24" alt="Blender" />
+      </a>
+      <br /><sub><a href="https://www.blender.org/">Blender</a></sub>
     </td>
   </tr>
 </table>
