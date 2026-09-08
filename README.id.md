@@ -227,7 +227,7 @@ Pize dapat digunakan bersama berbagai bahasa dan alat penelitian untuk analisis 
 
 Kesalahan analisis sering bermula sebelum pemodelan: pemisah kolom salah dikenali, nilai yang hilang dianggap sebagai angka, atau baris observasi pertama dibaca sebagai header. Karena itu, Pize mengutamakan pemahaman data agar kode selanjutnya berpijak pada struktur masukan yang sebenarnya, bukan dugaan tentang isi berkas.
 
-Repositori ini adalah halaman publik produk dan komunitas Pize, yang dikelola oleh pendirinya, [@guopengnaivoc](https://github.com/guopengnaivoc).
+Repositori ini adalah halaman publik produk dan komunitas Pize.
 
 ## <img src="assets/section-icons/features.svg" width="22" height="22" alt="" /> **Yang bisa dibantu oleh Pize**
 
@@ -285,7 +285,7 @@ Repositori ini menyediakan informasi produk, panduan komunitas, dan [halaman pen
 
 ## <img src="assets/section-icons/community.svg" width="22" height="22" alt="" /> **Pendiri, masukan, dan kolaborasi**
 
-Pize didirikan dan dikelola oleh [@guopengnaivoc](https://github.com/guopengnaivoc) dengan merek **pize.ai**. Situs resmi menjadi pintu masuk produk; repositori ini memperkenalkan proyek kepada publik, mengelola materi komunitas, dan menerima masukan.
+Pize didirikan oleh [@guopengnaivoc](https://github.com/guopengnaivoc) dan hadir dengan merek **pize.ai**. Situs resmi menjadi pintu masuk produk; repositori ini memperkenalkan proyek kepada publik, mengelola materi komunitas, dan menerima masukan.
 
 - **Pertanyaan produk dan usulan fitur:** buat [GitHub Issue](https://github.com/guopengnaivoc/pize.ai/issues).
 - **Laporan masalah:** jelaskan lingkungan, tugas, perilaku yang diharapkan, serta yang terjadi, dan sertakan contoh minimal bila memungkinkan. Lihat [panduan kontribusi](CONTRIBUTING.md).

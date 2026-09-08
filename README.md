@@ -227,7 +227,7 @@
 
 科研分析中的错误，往往在建模之前就已发生：分隔符识别错误、缺失值被当作数字、第一行观测值被误认为表头。Pize 把理解数据放在前面，让后续编程基于输入的真实结构，而不是对文件内容的猜测。
 
-这里是 Pize 的公开产品与社区主页，由创始人 [@guopengnaivoc](https://github.com/guopengnaivoc) 维护。
+这里是 Pize 的公开产品与社区主页。
 
 ## <img src="assets/section-icons/features.svg" width="22" height="22" alt="" /> **Pize 能做什么**
 
@@ -284,7 +284,7 @@ Pize 辅助工作流程，但不能代替科研判断。依赖分析结果之前
 
 ## <img src="assets/section-icons/community.svg" width="22" height="22" alt="" /> **创始人、反馈与合作**
 
-Pize 由 [@guopengnaivoc](https://github.com/guopengnaivoc) 创立和维护，对外使用 **pize.ai** 品牌。官网是产品入口，这个仓库用于公开项目介绍、维护社区资料并收集反馈。
+Pize 由 [@guopengnaivoc](https://github.com/guopengnaivoc) 创立，对外使用 **pize.ai** 品牌。官网是产品入口，这个仓库用于公开项目介绍、维护社区资料并收集反馈。
 
 - **产品问题与功能建议：** 提交 [GitHub Issue](https://github.com/guopengnaivoc/pize.ai/issues)。
 - **报告问题：** 说明使用环境、具体任务、预期行为、实际行为，并尽量提供最小示例，详见[参与指南](CONTRIBUTING.md)。

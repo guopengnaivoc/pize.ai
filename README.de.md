@@ -227,7 +227,7 @@ Pize lässt sich mit verschiedenen Sprachen und Werkzeugen für Datenanalyse, nu
 
 Fehler in einer Analyse entstehen oft schon vor der Modellierung: Ein Trennzeichen wird falsch erkannt, ein fehlender Wert als Zahl behandelt oder die erste Beobachtung mit einer Kopfzeile verwechselt. Pize setzt deshalb beim Verständnis der Daten an. Die anschließende Programmierung soll sich an der tatsächlichen Struktur der Eingaben orientieren, nicht an Vermutungen über den Dateiinhalt.
 
-Dieses Repository ist die öffentliche Produkt- und Community-Seite von Pize. Gepflegt wird es vom Gründer [@guopengnaivoc](https://github.com/guopengnaivoc).
+Dieses Repository ist die öffentliche Produkt- und Community-Seite von Pize.
 
 ## <img src="assets/section-icons/features.svg" width="22" height="22" alt="" /> **Was Pize unterstützt**
 
@@ -285,7 +285,7 @@ Dieses Repository enthält Produktinformationen, Hinweise für die Community und
 
 ## <img src="assets/section-icons/community.svg" width="22" height="22" alt="" /> **Gründer, Feedback und Zusammenarbeit**
 
-Pize wurde von [@guopengnaivoc](https://github.com/guopengnaivoc) gegründet und wird unter der Marke **pize.ai** gepflegt. Die Website ist der Zugang zum Produkt; das Repository dient der öffentlichen Projektvorstellung, der Pflege von Community-Materialien und dem Austausch von Feedback.
+Pize wurde von [@guopengnaivoc](https://github.com/guopengnaivoc) gegründet und tritt unter der Marke **pize.ai** auf. Die Website ist der Zugang zum Produkt; das Repository dient der öffentlichen Projektvorstellung, der Pflege von Community-Materialien und dem Austausch von Feedback.
 
 - **Produktfragen und Funktionswünsche:** Erstellen Sie ein [GitHub Issue](https://github.com/guopengnaivoc/pize.ai/issues).
 - **Fehler melden:** Beschreiben Sie Umgebung, Aufgabe sowie erwartetes und tatsächliches Verhalten und fügen Sie möglichst ein minimales Beispiel bei. Hinweise bietet der [Leitfaden zur Mitwirkung](CONTRIBUTING.md).

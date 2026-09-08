@@ -227,7 +227,7 @@ Pize s'adapte à différents langages et outils scientifiques utilisés pour l'a
 
 Les erreurs d'analyse surviennent souvent avant même la modélisation : un séparateur mal reconnu, une valeur manquante traitée comme un nombre, ou une première observation prise pour un en-tête. Pize commence par la compréhension des données, pour que le code repose sur la structure réelle des entrées plutôt que sur des suppositions concernant le fichier.
 
-Ce dépôt est l'espace public de présentation du produit et de sa communauté. Il est maintenu par le fondateur de Pize, [@guopengnaivoc](https://github.com/guopengnaivoc).
+Ce dépôt est l'espace public de présentation du produit et de sa communauté.
 
 ## <img src="assets/section-icons/features.svg" width="22" height="22" alt="" /> **Ce que Pize peut vous apporter**
 
@@ -285,7 +285,7 @@ Ce dépôt contient une présentation du produit, des indications pour la commun
 
 ## <img src="assets/section-icons/community.svg" width="22" height="22" alt="" /> **Fondateur, retours et collaboration**
 
-Pize a été fondé par [@guopengnaivoc](https://github.com/guopengnaivoc), qui le maintient sous la marque **pize.ai**. Le site donne accès au produit ; ce dépôt présente le projet, regroupe les ressources de la communauté et recueille les retours.
+Pize a été fondé par [@guopengnaivoc](https://github.com/guopengnaivoc) et est proposé sous la marque **pize.ai**. Le site donne accès au produit ; ce dépôt présente le projet, regroupe les ressources de la communauté et recueille les retours.
 
 - **Questions sur le produit et suggestions de fonctionnalités :** ouvrez une [issue GitHub](https://github.com/guopengnaivoc/pize.ai/issues).
 - **Signaler un problème :** indiquez l'environnement, la tâche, le comportement attendu et le comportement observé, avec si possible un exemple minimal. Consultez le [guide de contribution](CONTRIBUTING.md).

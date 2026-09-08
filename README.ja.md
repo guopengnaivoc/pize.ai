@@ -227,7 +227,7 @@ Pize は、データ分析、数値計算、機械学習、可視化で使われ
 
 分析の誤りは、モデルを作る前の段階で生じることも少なくありません。区切り文字の誤認、欠損値を数値として扱うこと、最初の観測行をヘッダーと取り違えることなどが、その例です。Pize はまずデータを理解することを重視し、ファイルの中身を推測するのではなく、入力の実際の構造に基づいてコードを書く作業を支えます。
 
-このリポジトリは Pize の製品紹介とコミュニティのための公開ページです。創設者の [@guopengnaivoc](https://github.com/guopengnaivoc) が管理しています。
+このリポジトリは Pize の製品紹介とコミュニティのための公開ページです。
 
 ## <img src="assets/section-icons/features.svg" width="22" height="22" alt="" /> **Pize ができること**
 
@@ -285,7 +285,7 @@ Pize は作業を支援しますが、科学的判断の代わりにはなりま
 
 ## <img src="assets/section-icons/community.svg" width="22" height="22" alt="" /> **創設者・フィードバック・協力のご案内**
 
-Pize は [@guopengnaivoc](https://github.com/guopengnaivoc) が創設・管理し、**pize.ai** のブランド名で展開しています。公式サイトが製品の入口となり、このリポジトリではプロジェクトの紹介、コミュニティ資料の管理、フィードバックの受け付けを行います。
+Pize は [@guopengnaivoc](https://github.com/guopengnaivoc) が創設したプロジェクトで、**pize.ai** のブランド名で展開しています。公式サイトが製品の入口となり、このリポジトリではプロジェクトの紹介、コミュニティ資料の管理、フィードバックの受け付けを行います。
 
 - **製品への質問・機能の要望：** [GitHub Issue](https://github.com/guopengnaivoc/pize.ai/issues) を作成してください。
 - **不具合の報告：** 環境、具体的な作業、期待した動作、実際の動作を記載し、できれば最小限の再現例も添えてください。詳しくは[参加ガイド](CONTRIBUTING.md)をご覧ください。

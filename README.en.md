@@ -227,7 +227,7 @@ Pize works with a range of scientific programming languages and tools for data a
 
 Analysis errors often start before modeling: a delimiter is misidentified, a missing value is treated as a number, or the first observation is mistaken for a header. Pize puts understanding the data first, so the code that follows is based on the actual structure of the input rather than a guess about the file.
 
-This is Pize's public product and community page, maintained by its founder, [@guopengnaivoc](https://github.com/guopengnaivoc).
+This is Pize's public product and community page.
 
 ## <img src="assets/section-icons/features.svg" width="22" height="22" alt="" /> **What Pize can help you do**
 
@@ -285,7 +285,7 @@ This repository contains product information, community guidance, and a standalo
 
 ## <img src="assets/section-icons/community.svg" width="22" height="22" alt="" /> **Founder, feedback, and collaboration**
 
-Pize was founded by [@guopengnaivoc](https://github.com/guopengnaivoc), who maintains it under the **pize.ai** brand. The website is the product entry point; this repository presents the project publicly, maintains community resources, and collects feedback.
+Pize was founded by [@guopengnaivoc](https://github.com/guopengnaivoc) and is presented under the **pize.ai** brand. The website is the product entry point; this repository presents the project publicly, maintains community resources, and collects feedback.
 
 - **Product questions and feature requests:** open a [GitHub Issue](https://github.com/guopengnaivoc/pize.ai/issues).
 - **Bug reports:** describe your environment, the task, expected behavior, and actual behavior, and include a minimal example where possible. See the [contribution guide](CONTRIBUTING.md).
