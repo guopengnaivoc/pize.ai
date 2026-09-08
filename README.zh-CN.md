@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="https://pize.ai/zh-Hans">
+  <!-- No href: keep the hero display-only. -->
+  <a>
     <picture>
       <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/hero-v3/hero-dark.png" />
       <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-v3/hero-light.png" />
