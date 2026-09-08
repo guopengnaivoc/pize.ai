@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://pize.ai">
-    <img src="assets/pize-logo.svg" width="96" height="96" alt="Pize logo" />
+  <a href="https://pize.ai/zh-Hans">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/hero-v3/hero-dark.png" />
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-v3/hero-light.png" />
+      <source media="(prefers-color-scheme: dark)" srcset="assets/hero-v3/hero-dark.webp" />
+      <img src="assets/hero-v3/hero-light.webp" width="1120" alt="Pize.ai：面向科学计算与统计分析的AI编程助手，打造全球无边界科研基础设施。理解数据，构建分析，审阅结果。Pize Code / CLI / SDK。右侧为官网原版配色的抗病相关蛋白 At1g58602 完整旋转动画。" />
+    </picture>
   </a>
 </p>
-
-<h1 align="center"><img src="assets/pize-wordmark.svg" width="160" height="47" alt="Pize.ai" /></h1>
-
-<p align="center"><strong>面向科学计算与统计分析的 AI 编程助手。</strong></p>
-<p align="center">理解数据，构建分析，审阅结果。</p>
 
 <p align="center">
   <a href="https://pize.ai/zh-Hans">首页</a> &middot; <a href="https://pize.ai/zh-Hans/product">产品</a> &middot; <a href="https://pize.ai/zh-Hans/applications">科学应用</a> &middot; <a href="https://pize.ai/zh-Hans/docs">文档</a> &middot; <a href="https://pize.ai/zh-Hans/blog">博客</a> &middot; <a href="https://pize.ai/zh-Hans/download">下载</a> &middot; <a href="https://pize.ai/zh-Hans/pricing">定价</a> &middot; <a href="https://pize.ai/zh-Hans/model-scores">模型评分</a>
@@ -223,7 +223,7 @@
 
 ## <img src="assets/section-icons/research.svg" width="22" height="22" alt="" /> **围绕科研工作，而不只是补全代码**
 
-**Pize 是为科学代码和统计数据工作设计的 AI 编程助手。** 从理解项目、准备分析方案，到编写和运行代码、查看输出与图表，再到调整下一步，Pize 将这些工作连接起来。你可以在 Pize Code、Positron、命令行 CLI 中使用，也可以通过 SDK 集成到自己的程序中。
+**Pize 是为科学代码和统计数据工作设计的 AI 编程助手。** 从理解项目、准备分析方案，到编写和运行代码、查看输出与图表，再到调整下一步，Pize 将这些工作连接起来。你可以在 Pize Code、命令行 CLI 中使用，也可以通过 SDK 集成到自己的程序中。
 
 科研分析中的错误，往往在建模之前就已发生：分隔符识别错误、缺失值被当作数字、第一行观测值被误认为表头。Pize 把理解数据放在前面，让后续编程基于输入的真实结构，而不是对文件内容的猜测。
 
@@ -235,7 +235,6 @@
 | --- | --- |
 | **理解数据文件** | 根据内容识别分隔符、表头、缺失值和各列类型，处理注释、元数据以及压缩表格。 |
 | **为大数据提供精简上下文** | 文件超出上下文预算时，提供包含结构、小量预览和明确标注的估算行数的数据卡，而不是把整张表塞进对话。 |
-| **连接真实 R / Python 会话** | 在 Positron 中查看当前会话、汇总数据框，经批准后运行代码和获取图表，再根据实际输出继续调整。 |
 | **可审阅的代码修改** | 协调多个文件的改动，查看差异、撤销修改，并回到此前的任务检查点。 |
 | **先规划，再执行** | 先了解项目并讨论分析方案，再经批准编写代码、运行终端命令。 |
 | **项目与浏览器上下文** | 引用文件、文件夹、问题和网址；需要调试时，结合浏览器操作、截图和日志定位问题。 |
@@ -248,11 +247,10 @@
 | 使用方式 | 适用场景 |
 | --- | --- |
 | **Pize Code** | 在编辑器中理解项目、审阅代码修改，并完成终端工作流。 |
-| **Positron** | 使用同一个编程助手，并连接当前已聚焦的 R 或 Python 会话。 |
 | **CLI** | 从命令行使用 Pize。 |
 | **SDK** | 将编程助手及其面向数据的能力嵌入自己的程序或内部工具。 |
 
-实时会话桥接是 Positron 环境的特定能力，并不代表所有入口都具有相同的运行时访问方式。安装与各入口的具体说明以[官方文档](https://pize.ai/docs)为准。
+不同使用入口的运行时访问能力可能不同，安装与各入口的具体说明以[官方文档](https://pize.ai/docs)为准。
 
 ## <img src="assets/section-icons/models.svg" width="22" height="22" alt="" /> **模型选择与工具连接**
 
@@ -264,7 +262,7 @@ Pize 支持云端与本地模型连接，包括 Anthropic、OpenAI、Google Gemi
 
 1. **选择使用环境。** 从[官方下载页](https://pize.ai/download)开始，按照文档完成对应环境的安装。
 2. **配置模型。** 根据文档连接支持的模型服务或本地接口。
-3. **提供科研上下文。** 打开项目，附上相关脚本或数据；使用 Positron 时，聚焦已载入目标数据的会话。
+3. **提供科研上下文。** 打开项目，附上相关脚本或数据，并说明分析目标与运行环境。
 4. **规划、批准、迭代。** 先确定分析思路，再审阅操作；运行后检查代码、输出和图表，然后决定下一步。
 
 ### <img src="assets/section-icons/examples.svg" width="20" height="20" alt="" /> **可以从这些研究问题开始**
@@ -280,7 +278,7 @@ Pize 辅助工作流程，但不能代替科研判断。依赖分析结果之前
 
 ## <img src="assets/section-icons/repository.svg" width="22" height="22" alt="" /> **这个仓库公开什么**
 
-本仓库提供产品介绍、社区说明，以及独立的[蛋白质交互展示页](https://guopengnaivoc.github.io/pize.ai/)。展示页是视觉演示，不是蛋白质预测服务，也不代表经过验证的科研结果；数据来源见[蛋白质素材说明](assets/protein-CREDITS.md)。
+本仓库提供产品介绍、社区说明，以及独立的[蛋白质交互展示页](https://guopengnaivoc.github.io/pize.ai/)。展示页是视觉演示，不是蛋白质预测服务，也不代表经过验证的科研结果；数据来源见[蛋白质素材说明](assets/protein-CREDITS.md)；首屏动画的来源与制作说明见[首屏素材署名](assets/hero-v3/CREDITS.md)。
 
 **Pize 核心应用源码未在本仓库公开。** 展示页的公开不代表完整产品开源。未来可以单独发布部分工具、示例和技术笔记，并分别说明公开范围与许可。软件获取方式和当前可用性以官网为准。
 
